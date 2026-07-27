@@ -11,49 +11,49 @@
     <style type="text/tailwindcss">
         @font-face {
         font-family: 'Metropolis';
-        src: url('assets/fonts/Metropolis-Regular.ttf') format('truetype');
+        src: url('../assets/fonts/Metropolis-Regular.ttf') format('truetype');
         font-weight: 400;
         font-style: normal;
         font-display: swap;
       }
       @font-face {
         font-family: 'Metropolis';
-        src: url('assets/fonts/Metropolis-Medium.ttf') format('truetype');
+        src: url('../assets/fonts/Metropolis-Medium.ttf') format('truetype');
         font-weight: 500;
         font-style: normal;
         font-display: swap;
       }
       @font-face {
         font-family: 'Metropolis';
-        src: url('assets/fonts/Metropolis-Semibold.ttf') format('truetype');
+        src: url('../assets/fonts/Metropolis-Semibold.ttf') format('truetype');
         font-weight: 600;
         font-style: normal;
         font-display: swap;
       }
       @font-face {
         font-family: 'Figtree';
-        src: url('assets/fonts/Figtree-Regular.ttf') format('truetype');
+        src: url('../assets/fonts/Figtree-Regular.ttf') format('truetype');
         font-weight: 400;
         font-style: normal;
         font-display: swap;
       }
       @font-face {
         font-family: 'Metropolis';
-        src: url('assets/fonts/Figtree-Medium.ttf') format('truetype');
+        src: url('../assets/fonts/Figtree-Medium.ttf') format('truetype');
         font-weight: 500;
         font-style: normal;
         font-display: swap;
       }
       @font-face {
         font-family: 'Metropolis';
-        src: url('assets/fonts/Figtree-SemiBold.ttf') format('truetype');
+        src: url('../assets/fonts/Figtree-SemiBold.ttf') format('truetype');
         font-weight: 600;
         font-style: normal;
         font-display: swap;
       }
       @font-face {
         font-family: 'CooperMdBTMedium';
-        src: url('assets/fonts/CooperMdBTMedium.ttf') format('truetype');
+        src: url('../assets/fonts/CooperMdBTMedium.ttf') format('truetype');
         font-weight: 500;
         font-style: normal;
         font-display: swap;
@@ -68,183 +68,472 @@
 
 <body>
     <?php require_once('../templates/global/header.php') ?>
+    <style>
+        .row {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            flex-wrap: nowrap;
+            row-gap: 20px;
+            column-gap: 20px;
+        }
+    </style>
+    <section class="innerbanner bg-[#13285e] pt-[65px] pb-[10px] px-[10px] gap-[20px] mt-[68px]">
+        <div class="max-w-[1240px] mx-auto flex gap-[50px] p-2.5 items-center">
+            <div class="flex-1 p-2.5 ">
+                <h1 class="text-[50px] text-[#fff] leading-[1.24em] mb-[16px] font-medium font-coopermdbtmedium ">
+                    Professional
+                    Digital Services
+                    From WPExperts
+                </h1>
+                <p class="text-[22px] text-[#fff] leading-[1.4em] font-medium font-figtree mb-[34px]">We deliver
+                    professional digital
+                    services and
+                    web
+                    services that help your business thrive in the digital age.</p>
+                <a href="#"
+                    class="px-[44px] leading-[1em] py-[20px] font-figtree font-medium text-[20px] bg-[#ff9900] shadow-[0px 0px 0 #00000026] border-solid border border-[#00000000] rounded-[4px] hover:border-[#ff9900] hover:bg-transparent flex w-fit gap-[15px] items-center">Explore
+                    Our Services
+                    <span class="flex">
+                        <svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 320 512" aria-hidden="true"
+                            focussable="false" class="w-[15px] h-[15px] fill-[#000]">
+                            <path
+                                d="M9.375 329.4c12.51-12.51 32.76-12.49 45.25 0L128 402.8V32c0-17.69 14.31-32 32-32s32 14.31 32 32v370.8l73.38-73.38c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-128 128c-12.5 12.5-32.75 12.5-45.25 0l-128-128C-3.125 362.1-3.125 341.9 9.375 329.4z">
+                            </path>
+                        </svg>
+                    </span>
+                </a>
+            </div>
+            <div class="flex flex-1 justify-center p-2.5">
+                <img src="http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/Image-Container-1.svg"
+                    class="w-[560px] h-[288px]">
 
-    <section class="innerbanner pt-[118px] pb-[50px] px-[10px] gap-[20px]">
-        <div class="max-w-[1240px] mx-auto">
-            <h1 class="text-[40px] font-medium font-coopermdbtmedium text-center">About Us</h1>
+            </div>
+        </div>
+        <div class="max-w-[1240px] mx-auto py-11 px-5 row">
+            <img src="http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/wordpress-logo.svg" alt="">
+            <img src="http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/Woo-logo.svg" alt="">
+            <img src="http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/stripe-logo.svg" alt="">
+            <img src="http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/square-logo.svg" alt="">
+            <img src="http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/freemius-logo-1.svg" alt="">
+            <img src="http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/aws-logo.svg" alt="">
+            <img src="http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/paypal-logo.svg" alt="">
         </div>
     </section>
 
-    <section class="mt-[20px] p-[10px]">
-        <div class="max-w-[1280px] mx-auto">
-            <p class="text-[#4b4b4b] mb-[20px] text-[16px] leading-[1.5em] text-center font-figtree">Founded in 2011,
-                WPExperts is a globally leading ‘360 degree digital services agency specializing in WordPress,
-                WooCommerce, Magento, and Shopify full-stack development. We’ve been working with WordPress &
-                WooCommerce platforms for more than a decade and already won 800+ clients worldwide. WPExperts has no
-                parallel with WordPress & WooCommerce development and customization services. We deal in Website
-                Development, Web Designing, Mobile App Development, WordPress Custom Plugins, WordPress Themes,
-                WordPress Frameworks, Custom CMS Development, E-Commerce Solutions, Payment Gateway Integration, API
-                Programming, and Digital Media services.</p>
-            <p class="text-[#4b4b4b] mb-[20px] text-[16px] leading-[1.5em] text-center font-figtree">WPExperts has
-                already delivered 3000+ praiseworthy projects to various clients in different industries. Our
-                business-strategic partnerships are in North America, Canada, Europe, and the Middle East.</p>
-            <p class="text-[#4b4b4b] mb-[20px] text-[16px] leading-[1.5em] text-center font-figtree">Our list of
-                services also includes WordPress SaaS development, WordPress backend development (PHP, JavaScript),
-                WordPress frontend development (HTML5, CSS3, AJAX), speed optimization & caching, SEO services, Uptime
-                monitoring, security, malware removal, code reviews, database audit, performance troubleshooting, API
-                programming, Payment gateway integration, website migration, and WordPress development retainers.</p>
-            <p class="text-[#4b4b4b] mb-[20px] text-[16px] leading-[1.5em] text-center font-figtree">We provide
-                technical WordPress development, consultation, and support services to corporations, global brands, and
-                enterprises. Our agency team takes care of your WordPress maintenance, content updates, daily offsite
-                backups, various customizations, and the look and feel of your site. We believe in building long-term
-                relationships with our clients.</p>
-            <a href="#"
-                class="border border-solid border-black text-black mt-[45px] mx-auto shadow-[0px 0px 0 #00000026] rounded-[30px] px-[25px] py-[10px] transition mx-auto block w-fit hover:bg-black hover:text-white font-medium">Get
-                in touch</a>
-        </div>
-    </section>
+    <section class="pt-11 px-2.5 pb-2.5">
+        <h2 class="text-[34px] leading-[1.3] font-medium ] text-center mt-[44px] mb-[24px] font-coopermdbtmedium">
+            Discover Our Professional WPExperts Services
+        </h2>
+        <div class="grid grid-cols-3 gap-6 max-w-[1240px] mx-auto">
 
-    <section class="mt-[50px] p-[10px]">
-        <div class="max-w-[1280px] mx-auto">
+            <!-- Repeatable Card -->
             <div
-                class="max-w-[70%] mx-auto px-[50px] py-[30px] bg-[#fcfcfc] border-solid border border-[#dfdede] rounded-[7px]">
-                <h2 class="text-[32px] font-semibold leading-[1.3] text-black font-figtree text-center mb-[20px]">How do
-                    we do it</h2>
-                <p class="font-figtree text-center text-[#4b4b4b]">The project development process is based on the
-                    understanding of your requirements. At first, we focus on clients’ project needs to grab the maximum
-                    knowledge to keep things easy. After that, our project managers discuss with our expert developers
-                    what the client needs. This demystification process is highly collaborative among the team,
-                    ultimately reducing modification, customer satisfaction, and fast delivery. From scratch to
-                    implementation, we make it convenient for all of our teammates not to be misunderstood. Our trio
-                    process makes us succeed.</p>
-            </div>
-        </div>
-    </section>
+                class="p-6 bg-white rounded-md border-2 border-[#F4F4F4] transition-all duration-300 hover:border-[#A1BBFF] hover:shadow-[0_4px_22.6px_0_#FFF9F0]">
+                <a href="#" class="block">
 
-    <section class="my-[60px] py-[10px]">
-        <div class="max-w-[1280px] mx-auto">
-            <div class="flex flex-wrap justify-between items-center">
-                <div class="max-w-[19%]">
-                    <img src="https://wp-experts.local/wp-content/uploads/2026/07/information_gathering.png"
-                        class="mx-auto">
-                    <h3 class="my-[20px] font-semibold text-[18px] text-black text-center font-figtree">Information
-                        Gathering</h3>
-                    <p class="text-[14px] text-[#4b4b4b] leading-[18px] text-center">Our client-focused research team
-                        applies various research methods such as online and onsite discussions, building roadmaps,
-                        professional surveys, and report creation to get a complete understanding.</p>
-                </div>
-                <div class="max-w-[19%]"><img src="https://wp-experts.local/wp-content/uploads/2026/07/line-1.png">
-                </div>
-                <div class="max-w-[19%]">
-                    <img src="https://wp-experts.local/wp-content/uploads/2026/07/design_development_phase.png"
-                        class="mx-auto">
-                    <h3 class="my-[20px] font-semibold text-[18px] text-black text-center font-figtree">Design &
-                        Development Phase</h3>
-                    <p class="text-[14px] text-[#4b4b4b] leading-[18px] text-center">Our ninja design and development
-                        team opts for the agile process to build aesthetically appealing UX design and digital products
-                        with pure coding with profound knowledge of the project.</p>
-                </div>
-                <div class="max-w-[19%] rotate-180"><img
-                        src="https://wp-experts.local/wp-content/uploads/2026/07/line-1.png"></div>
-                <div class="max-w-[19%]">
-                    <img src="https://wp-experts.local/wp-content/uploads/2026/07/qa_go_live.png" class="mx-auto">
-                    <h3 class="my-[20px] font-semibold text-[18px] text-black text-center font-figtree">QA & Go Live
+                    <img src="http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/woocommerce_services.webp"
+                        alt="" class="mb-6">
+
+                    <h3 class="mb-4 font-medium text-2xl leading-[120%] text-[#13285e] font-figtree">
+                        WooCommerce Services
                     </h3>
-                    <p class="text-[14px] text-[#4b4b4b] leading-[18px] text-center">With zero percent doubt in product
-                        building, we assure the quality of the product by testing it on different platforms with
-                        different methodologies and take it live after the successful analysis.</p>
-                </div>
+
+                    <p class="mb-[25px] text-base leading-[120%] text-gray-700">
+                        Top-notch WooCommerce development services to build suc...
+                    </p>
+
+                    <span class="inline-flex items-center gap-2 text-base font-medium text-[#13285e]">
+                        Get Started Now!
+
+                        <svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17" fill="none"
+                            class="w-[17px] h-[17px]">
+                            <path d="M13.8334 8.49988H3.16675" stroke="#13285E" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                            <path d="M10.5002 11.8333L13.8335 8.49996L10.5002 5.16663" stroke="#13285E"
+                                stroke-linecap="round" stroke-linejoin="round" />
+                        </svg>
+                    </span>
+
+                </a>
+            </div>
+            <!-- Repeatable Card -->
+            <div
+                class="p-6 bg-white rounded-md border-2 border-[#F4F4F4] transition-all duration-300 hover:border-[#A1BBFF] hover:shadow-[0_4px_22.6px_0_#FFF9F0]">
+                <a href="#" class="block">
+
+                    <img src="http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/woocommerce_services.webp"
+                        alt="" class="mb-6">
+
+                    <h3 class="mb-4 font-medium text-2xl leading-[120%] text-[#13285e] font-figtree">
+                        WooCommerce Services
+                    </h3>
+
+                    <p class="mb-[25px] text-base leading-[120%] text-gray-700">
+                        Top-notch WooCommerce development services to build suc...
+                    </p>
+
+                    <span class="inline-flex items-center gap-2 text-base font-medium text-[#13285e]">
+                        Get Started Now!
+
+                        <svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17" fill="none"
+                            class="w-[17px] h-[17px]">
+                            <path d="M13.8334 8.49988H3.16675" stroke="#13285E" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                            <path d="M10.5002 11.8333L13.8335 8.49996L10.5002 5.16663" stroke="#13285E"
+                                stroke-linecap="round" stroke-linejoin="round" />
+                        </svg>
+                    </span>
+
+                </a>
+            </div>
+            <!-- Repeatable Card -->
+            <div
+                class="p-6 bg-white rounded-md border-2 border-[#F4F4F4] transition-all duration-300 hover:border-[#A1BBFF] hover:shadow-[0_4px_22.6px_0_#FFF9F0]">
+                <a href="#" class="block">
+
+                    <img src="http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/woocommerce_services.webp"
+                        alt="" class="mb-6">
+
+                    <h3 class="mb-4 font-medium text-2xl leading-[120%] text-[#13285e] font-figtree">
+                        WooCommerce Services
+                    </h3>
+
+                    <p class="mb-[25px] text-base leading-[120%] text-gray-700">
+                        Top-notch WooCommerce development services to build suc...
+                    </p>
+
+                    <span class="inline-flex items-center gap-2 text-base font-medium text-[#13285e]">
+                        Get Started Now!
+
+                        <svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17" fill="none"
+                            class="w-[17px] h-[17px]">
+                            <path d="M13.8334 8.49988H3.16675" stroke="#13285E" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                            <path d="M10.5002 11.8333L13.8335 8.49996L10.5002 5.16663" stroke="#13285E"
+                                stroke-linecap="round" stroke-linejoin="round" />
+                        </svg>
+                    </span>
+
+                </a>
+            </div>
+            <!-- Repeatable Card -->
+            <div
+                class="p-6 bg-white rounded-md border-2 border-[#F4F4F4] transition-all duration-300 hover:border-[#A1BBFF] hover:shadow-[0_4px_22.6px_0_#FFF9F0]">
+                <a href="#" class="block">
+
+                    <img src="http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/woocommerce_services.webp"
+                        alt="" class="mb-6">
+
+                    <h3 class="mb-4 font-medium text-2xl leading-[120%] text-[#13285e] font-figtree">
+                        WooCommerce Services
+                    </h3>
+
+                    <p class="mb-[25px] text-base leading-[120%] text-gray-700">
+                        Top-notch WooCommerce development services to build suc...
+                    </p>
+
+                    <span class="inline-flex items-center gap-2 text-base font-medium text-[#13285e]">
+                        Get Started Now!
+
+                        <svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17" fill="none"
+                            class="w-[17px] h-[17px]">
+                            <path d="M13.8334 8.49988H3.16675" stroke="#13285E" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                            <path d="M10.5002 11.8333L13.8335 8.49996L10.5002 5.16663" stroke="#13285E"
+                                stroke-linecap="round" stroke-linejoin="round" />
+                        </svg>
+                    </span>
+
+                </a>
+            </div>
+            <!-- Repeatable Card -->
+            <div
+                class="p-6 bg-white rounded-md border-2 border-[#F4F4F4] transition-all duration-300 hover:border-[#A1BBFF] hover:shadow-[0_4px_22.6px_0_#FFF9F0]">
+                <a href="#" class="block">
+
+                    <img src="http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/woocommerce_services.webp"
+                        alt="" class="mb-6">
+
+                    <h3 class="mb-4 font-medium text-2xl leading-[120%] text-[#13285e] font-figtree">
+                        WooCommerce Services
+                    </h3>
+
+                    <p class="mb-[25px] text-base leading-[120%] text-gray-700">
+                        Top-notch WooCommerce development services to build suc...
+                    </p>
+
+                    <span class="inline-flex items-center gap-2 text-base font-medium text-[#13285e]">
+                        Get Started Now!
+
+                        <svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17" fill="none"
+                            class="w-[17px] h-[17px]">
+                            <path d="M13.8334 8.49988H3.16675" stroke="#13285E" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                            <path d="M10.5002 11.8333L13.8335 8.49996L10.5002 5.16663" stroke="#13285E"
+                                stroke-linecap="round" stroke-linejoin="round" />
+                        </svg>
+                    </span>
+
+                </a>
+            </div>
+            <!-- Repeatable Card -->
+            <div
+                class="p-6 bg-white rounded-md border-2 border-[#F4F4F4] transition-all duration-300 hover:border-[#A1BBFF] hover:shadow-[0_4px_22.6px_0_#FFF9F0]">
+                <a href="#" class="block">
+
+                    <img src="http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/woocommerce_services.webp"
+                        alt="" class="mb-6">
+
+                    <h3 class="mb-4 font-medium text-2xl leading-[120%] text-[#13285e] font-figtree">
+                        WooCommerce Services
+                    </h3>
+
+                    <p class="mb-[25px] text-base leading-[120%] text-gray-700">
+                        Top-notch WooCommerce development services to build suc...
+                    </p>
+
+                    <span class="inline-flex items-center gap-2 text-base font-medium text-[#13285e]">
+                        Get Started Now!
+
+                        <svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17" fill="none"
+                            class="w-[17px] h-[17px]">
+                            <path d="M13.8334 8.49988H3.16675" stroke="#13285E" stroke-linecap="round"
+                                stroke-linejoin="round" />
+                            <path d="M10.5002 11.8333L13.8335 8.49996L10.5002 5.16663" stroke="#13285E"
+                                stroke-linecap="round" stroke-linejoin="round" />
+                        </svg>
+                    </span>
+
+                </a>
             </div>
         </div>
     </section>
 
+    <section class="max-w-[1240px] mx-auto ">
 
-    <section>
-        <div class="max-w-[1240px] mx-auto">
-            <h2 class="text-[32px] text-black font-figtree font-[600] text-center mb-[60px]">Founders Behind WPExperts
-            </h2>
-            <div class="founder-boxes flex gap-[40px]">
-                <div
-                    class="shadow-[0px 0px #00000070] px-[30px] py-[30px] bg-[#fcfcfc] border border-solid border-[#dfdede] w-full flex flex-col gap-[20px]">
-                    <img src="https://wp-experts.local/wp-content/uploads/2026/07/images-01.png"
-                        class="w-fit mx-auto rounded-full">
-                    <div>
-                        <h3 class="text-black text-[18px] leading-[1.3] text-center font-figtree font-[600]">Saad Iqbal
-                        </h3>
-                        <div class="text-center text-[#878787] text-[16px] leading-[16px]">Founder & CEO</div>
-                    </div>
-                    <a href="#" target="_blank" class="text-center w-[34px] mx-auto"><img
-                            src="https://wp-experts.local/wp-content/uploads/2026/07/image-3-300x300-1.png"></a>
-                    <p class="text-[#4b4b4b] text-[14px] font-figtree text-center">I have been part of the WordPress
-                        community since 2008. I founded WPExperts.io in 2011 as a premium WordPress agency with branches
-                        in Pakistan and Egypt. Today, the company has 100+ team members working on different WordPress
-                        projects and plugins, including myCred.me and other WordPress products.</p>
-                </div>
-                <div
-                    class="shadow-[0px 0px #00000070] px-[30px] py-[30px] bg-[#fcfcfc] border border-solid border-[#dfdede] w-full flex flex-col gap-[20px]">
-                    <img src="https://wp-experts.local/wp-content/uploads/2026/07/images-02.png"
-                        class="w-fit mx-auto rounded-full">
-                    <div>
-                        <h3 class="text-black text-[18px] leading-[1.3] text-center font-figtree font-[600]">Ahmed Salah
-                        </h3>
-                        <div class="text-center text-[#878787] text-[16px] leading-[16px]">Co-Founder & CTO</div>
-                    </div>
-                    <a href="#" target="_blank" class="text-center w-[34px] mx-auto"><img
-                            src="https://wp-experts.local/wp-content/uploads/2026/07/image-3-300x300-1.png"></a>
-                    <p class="text-[#4b4b4b] text-[14px] font-figtree text-center">An experienced founder with a
-                        demonstrated history of working in the information technology and services industry. Skilled in
-                        Search Engine Optimization (SEO), Mobile Applications, Management, HTML, and Startups. Strong
-                        business development professional with a Bachelor’s degree focused in Pharmacy from Alexandria
-                        University.</p>
-                </div>
+        <h2
+            class="text-[34px] leading-[1.3] font-medium text-[#13285e] text-center mt-[44px] mb-[24px] font-coopermdbtmedium">
+            Browse All WPExperts Services
+        </h2>
+
+        <p class="text-[18px] font-figtree text-center mb-10">
+            Find the perfect solution from our WPExperts Digital Services.
+        </p>
+
+        <div class="grid grid-cols-[280px_1fr] gap-10">
+
+            <!-- Left Sidebar -->
+            <div>
+
+                <h3 class="mt-6 mb-4 text-[26px] font-medium ">
+                    Service Categories
+                </h3>
+
+                <ul class="p-0 m-0 list-none">
+
+                    <li data-tab="wordpress"
+                        class="tab-item py-3 px-[15px] cursor-pointer border-l-[3px] border-l-transparent transition-all duration-300 mb-[5px] rounded text-base bg-[#EEF4FF] border-l-[#A1BBFF] text-[#13285e] font-semibold">
+                        WordPress Development
+                    </li>
+
+                    <li data-tab="woocommerce"
+                        class="tab-item py-3 px-[15px] hover:bg-[#f5f5f5] cursor-pointer border-l-[3px] border-l-transparent transition-all duration-300 mb-[5px] rounded text-base">
+                        WooCommerce
+                    </li>
+
+                    <li data-tab="maintenance"
+                        class="tab-item py-3 px-[15px] hover:bg-[#f5f5f5] cursor-pointer border-l-[3px] border-l-transparent transition-all duration-300 mb-[5px] rounded text-base ">
+                        Maintenance
+                    </li>
+
+                </ul>
+
             </div>
+
+            <!-- Right Content -->
+            <div class="flex-1">
+
+                <!-- WordPress -->
+                <div data-content="wordpress" class="tab-content grid grid-cols-2 gap-5">
+
+                    <div
+                        class="border border-[#F4F4F4] p-[15px] rounded-lg bg-white transition-all duration-200 flex flex-col justify-center hover:border-[#A1BBFF]">
+                        <a href="#" class="flex items-center gap-4 text-[14px] text-[#13285e]">
+                            <img src="http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/Game-Development.svg"
+                                alt="" class="w-12 h-12">
+                            <h3 class="text-[16px] font-semibold">WordPress Website Development</h3>
+                        </a>
+                    </div>
+
+                    <div
+                        class="border border-[#F4F4F4] p-[15px] rounded-lg bg-white transition-all duration-200 flex flex-col justify-center hover:border-[#A1BBFF]">
+                        <a href="#" class="flex items-center gap-4 text-[14px] text-[#13285e]">
+                            <img src="http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/Game-Development.svg"
+                                alt="" class="w-12 h-12">
+                            <h3 class="text-[16px] font-semibold">WordPress Speed Optimization</h3>
+                        </a>
+                    </div>
+
+                </div>
+
+                <!-- WooCommerce -->
+                <div data-content="woocommerce" class="tab-content hidden grid grid-cols-2 gap-5">
+
+                    <div
+                        class="border border-[#F4F4F4] p-[15px] rounded-lg bg-white transition-all duration-200 flex flex-col justify-center hover:border-[#A1BBFF]">
+                        <a href="#" class="flex items-center gap-4 text-[14px] text-[#13285e]">
+                            <img src="http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/Game-Development.svg"
+                                alt="" class="w-12 h-12">
+                            <h3 class="text-[16px] font-semibold">WooCommerce Development</h3>
+                        </a>
+                    </div>
+
+                </div>
+
+                <!-- Maintenance -->
+                <div data-content="maintenance" class="tab-content hidden grid grid-cols-2 gap-5">
+
+                    <div
+                        class="border border-[#F4F4F4] p-[15px] rounded-lg bg-white transition-all duration-200 flex flex-col justify-center hover:border-[#A1BBFF]">
+                        <a href="#" class="flex items-center gap-4 text-[14px] text-[#13285e]">
+                            <img src="http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/Game-Development.svg"
+                                alt="" class="w-12 h-12">
+                            <h3 class="text-[16px] font-semibold">Website Maintenance</h3>
+                        </a>
+                    </div>
+
+                </div>
+
+            </div>
+
         </div>
+
     </section>
 
+    <section class="grid grid-cols-1 lg:grid-cols-2">
 
-    <section class="mt-[120px] mb-[60px]">
-        <div class="max-w-[1280px] mx-auto">
-            <h2 class="text-[32px] font-[600] text-black font-figtree text-center mb-[8px]">Certified Experts</h2>
-            <p class="text-[18px] leading-[1.4] text-center px-[200px] text-[#4b4b4b]">With a team of professional
-                WordPress consultants and experts, we have collaborated with leading brands in the WordPress community.
+        <!-- Left -->
+        <div
+            class="bg-[url('http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/services-bg-1.svg')] bg-cover bg-center min-h-[600px] lg:min-h-0">
+        </div>
+
+        <!-- Right -->
+        <div class="shadow-[0px_0px_0px_#00000070] bg-[#fffaf3] py-11  pl-24 pr-6">
+            <!-- Content -->
+            <h3 class="text-[#13285e] font-medium text-[40px] leading-[50px] mb-6 font-coopermdbtmedium">
+                Why Choose WPExperts Digital Services
+            </h3>
+
+            <p class="text-[#13285e] font-medium text-[22px] leading-[33px] mb-[50px]">
+                We’re a trusted enterprise-level digital solutions provider for WordPress & WooCommerce services, AI
+                development, and scalable solutions.
             </p>
-            <div class="mt-[60px] flex flex-wrap gap-[25px] items-center justify-between">
-                <div class="w-[18%] text-center"><img
-                        src="https://wp-experts.local/wp-content/uploads/2026/07/Woo_logo_color-3.svg"
-                        class="w-[135px] mx-auto grayscale hover:grayscale-0 transition-all"></div>
-                <div class="w-[18%] text-center"><img
-                        src="https://wp-experts.local/wp-content/uploads/2026/07/api-web-logos_Gravity-Forms.svg"
-                        class="w-[236px] mx-auto grayscale hover:grayscale-0 transition-all"></div>
-                <div class="w-[18%] text-center"><img
-                        src="https://wp-experts.local/wp-content/uploads/2026/07/Group.svg"
-                        class="w-[135px] mx-auto grayscale hover:grayscale-0 transition-all"></div>
-                <div class="w-[18%] text-center"><img
-                        src="https://wp-experts.local/wp-content/uploads/2026/07/Group-1.svg"
-                        class="w-[135px] mx-auto grayscale hover:grayscale-0 transition-all"></div>
-                <div class="w-[18%] text-center"><img
-                        src="https://wp-experts.local/wp-content/uploads/2026/07/logo-05.svg"
-                        class="w-[200px] mx-auto grayscale hover:grayscale-0 transition-all"></div>
-                <div class="w-[18%] text-center"><img
-                        src="https://wp-experts.local/wp-content/uploads/2026/07/logo-07.svg"
-                        class="w-[200px] mx-auto grayscale hover:grayscale-0 transition-all"></div>
-                <div class="w-[18%] text-center"><img
-                        src="https://wp-experts.local/wp-content/uploads/2026/07/logo-08.svg"
-                        class="w-[200px] mx-auto grayscale hover:grayscale-0 transition-all"></div>
-                <div class="w-[18%] text-center"><img
-                        src="https://wp-experts.local/wp-content/uploads/2026/07/logo-06.svg"
-                        class="w-[200px] mx-auto grayscale hover:grayscale-0 transition-all"></div>
-                <div class="w-[18%] text-center"><img
-                        src="https://wp-experts.local/wp-content/uploads/2026/07/logo-09.svg"
-                        class="w-[200px] mx-auto grayscale hover:grayscale-0 transition-all"></div>
-                <div class="w-[18%] text-center"><img
-                        src="https://wp-experts.local/wp-content/uploads/2026/07/logo-10.svg"
-                        class="w-[200px] mx-auto grayscale hover:grayscale-0 transition-all"></div>
+
+            <!-- Feature Item (Repeatable) -->
+            <div class="flex items-start">
+
+                <img src="http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/star-1.svg" alt=""
+                    class="w-12 h-12 shrink-0">
+
+                <div class="pl-6">
+
+                    <h4 class="text-[#13285e] font-semibold text-2xl leading-9 mb-[10px]">
+                        Enterprise-Level Expertise
+                    </h4>
+
+                    <p class="text-[#13285e] font-medium text-[18px] leading-[31px] mb-5">
+                        We deliver scalable WordPress, WooCommerce, and AI-powered solutions tailored to businesses of
+                        all sizes.
+                    </p>
+
+                </div>
+
+            </div>
+            <div class="flex items-start">
+
+                <img src="http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/star-1.svg" alt=""
+                    class="w-12 h-12 shrink-0">
+
+                <div class="pl-6">
+
+                    <h4 class="text-[#13285e] font-semibold text-2xl leading-9 mb-[10px]">
+                        Enterprise-Level Expertise
+                    </h4>
+
+                    <p class="text-[#13285e] font-medium text-[18px] leading-[31px] mb-5">
+                        We deliver scalable WordPress, WooCommerce, and AI-powered solutions tailored to businesses of
+                        all sizes.
+                    </p>
+
+                </div>
+
+            </div>
+            <div class="flex items-start">
+
+                <img src="http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/star-1.svg" alt=""
+                    class="w-12 h-12 shrink-0">
+
+                <div class="pl-6">
+
+                    <h4 class="text-[#13285e] font-semibold text-2xl leading-9 mb-[10px]">
+                        Enterprise-Level Expertise
+                    </h4>
+
+                    <p class="text-[#13285e] font-medium text-[18px] leading-[31px] mb-5">
+                        We deliver scalable WordPress, WooCommerce, and AI-powered solutions tailored to businesses of
+                        all sizes.
+                    </p>
+
+                </div>
+
             </div>
         </div>
+
     </section>
-
     <?php require_once('../templates/global/footer.php') ?>
+    <!-- tabs section script  -->
+    <script>
+        const tabs = document.querySelectorAll('.tab-item');
+        const contents = document.querySelectorAll('.tab-content');
 
+        tabs.forEach(tab => {
+            tab.addEventListener('click', () => {
+                const target = tab.dataset.tab;
+
+                // Remove active state
+                tabs.forEach(item => {
+                    item.classList.remove(
+                        'bg-[#EEF4FF]',
+                        'border-l-[#A1BBFF]',
+                        'text-[#13285e]',
+                        'font-semibold'
+                    );
+                    item.classList.add('hover:bg-[#f5f5f5]');
+                });
+
+                // Hide all content
+                contents.forEach(content => {
+                    content.classList.add('hidden');
+                });
+
+                // Activate clicked tab
+                tab.classList.add(
+                    'bg-[#EEF4FF]',
+                    'border-l-[#A1BBFF]',
+                    'text-[#13285e]',
+                    'font-semibold'
+                );
+                tab.classList.remove('hover:bg-[#f5f5f5]');
+                // Show matching content
+                document
+                    .querySelector(`[data-content="${target}"]`)
+                    .classList.remove('hidden');
+            });
+        });
+
+
+    </script>
 </body>
 
 </html>
