@@ -82,9 +82,15 @@
         <div class="max-w-[1240px] mx-auto">
             <div class="flex flex-wrap items-center justify-between">
                 <div class="items-center w-[57%]">
-                    <h1 class="mb-[16px] text-[50px] text-white font-coopermdbtmedium">WordPress Services From Anywhere in the USA</h1>
-                    <p class="pb-[64px] font-figtree text-[22px] leading-[1.2] text-white">We offer professional website design and digital solutions delivered to your area. We serve businesses in every state and city across America. Visit your local market service page to learn more and get tailored solutions for your needs.</p>
-                    <a href="#" class="font-figtree font-[600] text-[20px] py-[20px] px-[44px] text-black bg-[#ff9900] transition hover:bg-white rounded-[6px]">Get Started Now!</a>
+                    <h1 class="mb-[16px] text-[50px] text-white font-coopermdbtmedium">WordPress Services From Anywhere
+                        in the USA</h1>
+                    <p class="pb-[64px] font-figtree text-[22px] leading-[1.2] text-white">We offer professional website
+                        design and digital solutions delivered to your area. We serve businesses in every state and city
+                        across America. Visit your local market service page to learn more and get tailored solutions
+                        for your needs.</p>
+                    <a href="#"
+                        class="font-figtree font-[600] text-[20px] py-[20px] px-[44px] text-black bg-[#ff9900] transition hover:bg-white rounded-[6px]">Get
+                        Started Now!</a>
                 </div>
                 <div class="w-[35%] p-[24px] bg-white rounded-[7px]"></div>
                 <div class="w-full mt-[64px] p-[10px] mb-[54px] flex gap-[20px] justify-between">
@@ -103,242 +109,344 @@
 
     <section class="my-[44px]">
         <div class="max-w-[1240px] mx-auto">
-            <h2 class="text-center text-[34px] leading-[41px] mb-[15px] text-black font-coopermdbtmedium font-[400]">States We Serve</h2>
-            <p class="text-[18px] leading-[21px] mb-[15px] text-[#4b4b4b] text-center font-figtree">WPExperts provides comprehensive WordPress digital services in all 50 states of the US.</p>
+            <h2 class="text-center text-[34px] leading-[41px] mb-[15px] text-black font-coopermdbtmedium font-[400]">
+                States We Serve</h2>
+            <p class="text-[18px] leading-[21px] mb-[15px] text-[#4b4b4b] text-center font-figtree">WPExperts provides
+                comprehensive WordPress digital services in all 50 states of the US.</p>
         </div>
         <div class="max-w-[1240px] mx-auto p-[10px] my-[20px] mt-[50px]">
             <div class="flex gap-y-[50px] flex-wrap justify-between">
-                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center transition hover:text-[#ff9900] w-[25%]">
-                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">AL</div>Alabama
+                <a href="#"
+                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center transition hover:text-[#ff9900] w-[25%]">
+                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">AL
+                    </div>Alabama
                 </a>
-                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center transition hover:text-[#ff9900] w-[25%]">
-                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">IN</div>Indiana
-                </a>
-                <a class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%]">
-                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">NE</div>Nebraska
-                </a>
-                <a class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%]">
-                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">SC</div>South Carolina
-                </a>
-                
-                
-                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
-                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">AK</div>Alaska
-                </a>
-                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
-                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">IA</div>Iowa
+                <a href="#"
+                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center transition hover:text-[#ff9900] w-[25%]">
+                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">IN
+                    </div>Indiana
                 </a>
                 <a class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%]">
-                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">NV</div>Nevada
+                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">NE
+                    </div>Nebraska
                 </a>
                 <a class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%]">
-                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">SD</div>South Dakota
+                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">SC
+                    </div>South Carolina
+                </a>
+
+
+                <a href="#"
+                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
+                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">AK
+                    </div>Alaska
+                </a>
+                <a href="#"
+                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
+                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">IA
+                    </div>Iowa
+                </a>
+                <a class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%]">
+                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">NV
+                    </div>Nevada
+                </a>
+                <a class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%]">
+                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">SD
+                    </div>South Dakota
                 </a>
 
 
 
-                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
-                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">AZ</div>Arizona
+                <a href="#"
+                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
+                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">AZ
+                    </div>Arizona
                 </a>
-                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
-                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">KS</div>Kansas
+                <a href="#"
+                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
+                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">KS
+                    </div>Kansas
                 </a>
                 <a class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%]">
-                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">NH</div>New Hampshire
+                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">NH
+                    </div>New Hampshire
                 </a>
                 <a class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%]">
-                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">TN</div>Tennessee
+                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">TN
+                    </div>Tennessee
                 </a>
 
 
                 <a class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%]">
-                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">AR</div>Arkansas
+                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">AR
+                    </div>Arkansas
                 </a>
-                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
-                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">KY</div>Kentucky
+                <a href="#"
+                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
+                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">KY
+                    </div>Kentucky
                 </a>
                 <a class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%]">
-                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">NJ</div>New Jersey
+                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">NJ
+                    </div>New Jersey
                 </a>
-                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
-                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">TX</div>Texas
+                <a href="#"
+                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
+                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">TX
+                    </div>Texas
                 </a>
 
 
-                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
-                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">CA</div>California
+                <a href="#"
+                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
+                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">CA
+                    </div>California
                 </a>
                 <a class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] ">
-                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">LA</div>Louisiana
+                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">LA
+                    </div>Louisiana
                 </a>
-                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
-                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">NM</div>New Mexico
+                <a href="#"
+                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
+                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">NM
+                    </div>New Mexico
                 </a>
-                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
-                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">UT</div>Utah
-                </a>
-
-                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
-                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">CO</div>Colorado
-                </a>
-                <a class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] ">
-                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">ME</div>Maine
-                </a>
-                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
-                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">NY</div>New York
-                </a>
-                <a class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] ">
-                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">VT</div>Vermont
+                <a href="#"
+                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
+                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">UT
+                    </div>Utah
                 </a>
 
-                <a class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] ">
-                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">CT</div>Connecticut
+                <a href="#"
+                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
+                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">CO
+                    </div>Colorado
                 </a>
                 <a class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] ">
-                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">MD</div>Maryland
+                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">ME
+                    </div>Maine
                 </a>
-                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
-                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">NC</div>North Carolina
+                <a href="#"
+                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
+                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">NY
+                    </div>New York
                 </a>
-                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
-                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">VA</div>Virginia
+                <a class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] ">
+                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">VT
+                    </div>Vermont
                 </a>
 
-                
-                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
-                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">DE</div>Delaware
+                <a class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] ">
+                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">CT
+                    </div>Connecticut
                 </a>
                 <a class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] ">
-                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">MA</div>Massachusetts
+                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">MD
+                    </div>Maryland
+                </a>
+                <a href="#"
+                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
+                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">NC
+                    </div>North Carolina
+                </a>
+                <a href="#"
+                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
+                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">VA
+                    </div>Virginia
+                </a>
+
+
+                <a href="#"
+                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
+                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">DE
+                    </div>Delaware
+                </a>
+                <a class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] ">
+                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">MA
+                    </div>Massachusetts
                 </a>
                 <a class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%]">
-                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">ND</div>North Dakota
+                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">ND
+                    </div>North Dakota
                 </a>
-                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
-                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">WA</div>Washington
+                <a href="#"
+                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
+                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">WA
+                    </div>Washington
                 </a>
-                
+
             </div>
         </div>
     </section>
 
     <section class="my-[44px] mt-[100px]">
         <div class="max-w-[1240px] mx-auto">
-            <h2 class="text-center text-[34px] leading-[41px] mb-[15px] text-black font-coopermdbtmedium font-[400]">Major Cities We Serve</h2>
-            <p class="text-[18px] leading-[21px] mb-[15px] text-[#4b4b4b] text-center font-figtree">Expert digital solutions for businesses in America’s leading metropolitan areas.</p>
+            <h2 class="text-center text-[34px] leading-[41px] mb-[15px] text-black font-coopermdbtmedium font-[400]">
+                Major Cities We Serve</h2>
+            <p class="text-[18px] leading-[21px] mb-[15px] text-[#4b4b4b] text-center font-figtree">Expert digital
+                solutions for businesses in America’s leading metropolitan areas.</p>
         </div>
         <div class="max-w-[1240px] mx-auto p-[10px] my-[20px] mt-[50px]">
             <div class="flex gap-y-[50px] flex-wrap justify-between">
-                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center transition hover:text-[#ff9900] w-[25%]">
-                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">AL</div>Alabama
+                <a href="#"
+                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center transition hover:text-[#ff9900] w-[25%]">
+                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">AL
+                    </div>Alabama
                 </a>
-                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center transition hover:text-[#ff9900] w-[25%]">
-                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">IN</div>Indiana
-                </a>
-                <a class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%]">
-                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">NE</div>Nebraska
-                </a>
-                <a class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%]">
-                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">SC</div>South Carolina
-                </a>
-                
-                
-                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
-                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">AK</div>Alaska
-                </a>
-                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
-                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">IA</div>Iowa
+                <a href="#"
+                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center transition hover:text-[#ff9900] w-[25%]">
+                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">IN
+                    </div>Indiana
                 </a>
                 <a class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%]">
-                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">NV</div>Nevada
+                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">NE
+                    </div>Nebraska
                 </a>
                 <a class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%]">
-                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">SD</div>South Dakota
+                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">SC
+                    </div>South Carolina
+                </a>
+
+
+                <a href="#"
+                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
+                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">AK
+                    </div>Alaska
+                </a>
+                <a href="#"
+                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
+                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">IA
+                    </div>Iowa
+                </a>
+                <a class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%]">
+                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">NV
+                    </div>Nevada
+                </a>
+                <a class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%]">
+                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">SD
+                    </div>South Dakota
                 </a>
 
 
 
-                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
-                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">AZ</div>Arizona
+                <a href="#"
+                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
+                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">AZ
+                    </div>Arizona
                 </a>
-                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
-                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">KS</div>Kansas
+                <a href="#"
+                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
+                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">KS
+                    </div>Kansas
                 </a>
                 <a class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%]">
-                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">NH</div>New Hampshire
+                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">NH
+                    </div>New Hampshire
                 </a>
                 <a class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%]">
-                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">TN</div>Tennessee
+                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">TN
+                    </div>Tennessee
                 </a>
 
 
                 <a class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%]">
-                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">AR</div>Arkansas
+                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">AR
+                    </div>Arkansas
                 </a>
-                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
-                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">KY</div>Kentucky
+                <a href="#"
+                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
+                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">KY
+                    </div>Kentucky
                 </a>
                 <a class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%]">
-                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">NJ</div>New Jersey
+                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">NJ
+                    </div>New Jersey
                 </a>
-                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
-                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">TX</div>Texas
+                <a href="#"
+                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
+                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">TX
+                    </div>Texas
                 </a>
 
 
-                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
-                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">CA</div>California
+                <a href="#"
+                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
+                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">CA
+                    </div>California
                 </a>
                 <a class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] ">
-                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">LA</div>Louisiana
+                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">LA
+                    </div>Louisiana
                 </a>
-                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
-                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">NM</div>New Mexico
+                <a href="#"
+                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
+                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">NM
+                    </div>New Mexico
                 </a>
-                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
-                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">UT</div>Utah
-                </a>
-
-                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
-                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">CO</div>Colorado
-                </a>
-                <a class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] ">
-                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">ME</div>Maine
-                </a>
-                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
-                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">NY</div>New York
-                </a>
-                <a class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] ">
-                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">VT</div>Vermont
+                <a href="#"
+                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
+                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">UT
+                    </div>Utah
                 </a>
 
-                <a class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] ">
-                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">CT</div>Connecticut
+                <a href="#"
+                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
+                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">CO
+                    </div>Colorado
                 </a>
                 <a class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] ">
-                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">MD</div>Maryland
+                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">ME
+                    </div>Maine
                 </a>
-                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
-                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">NC</div>North Carolina
+                <a href="#"
+                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
+                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">NY
+                    </div>New York
                 </a>
-                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
-                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">VA</div>Virginia
+                <a class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] ">
+                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">VT
+                    </div>Vermont
                 </a>
 
-                
-                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
-                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">DE</div>Delaware
+                <a class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] ">
+                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">CT
+                    </div>Connecticut
                 </a>
                 <a class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] ">
-                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">MA</div>Massachusetts
+                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">MD
+                    </div>Maryland
+                </a>
+                <a href="#"
+                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
+                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">NC
+                    </div>North Carolina
+                </a>
+                <a href="#"
+                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
+                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">VA
+                    </div>Virginia
+                </a>
+
+
+                <a href="#"
+                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
+                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">DE
+                    </div>Delaware
+                </a>
+                <a class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] ">
+                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">MA
+                    </div>Massachusetts
                 </a>
                 <a class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%]">
-                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">ND</div>North Dakota
+                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">ND
+                    </div>North Dakota
                 </a>
-                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
-                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">WA</div>Washington
+                <a href="#"
+                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
+                    <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">WA
+                    </div>Washington
                 </a>
-                
+
             </div>
         </div>
     </section>
@@ -346,12 +454,25 @@
 
     <section class="mt-[100px]">
         <div class="max-w-[1090px] mx-auto">
-            <div class="py-[64px] px-[10px] rounded-[10px] bg-[radial-gradient(at_center_center,_#2853c4_0%,_#13285e_100%)] flex flex-col gap-[30px] items-center justify-center">
-                <h2 class="font-coopermdbtmedium text-[34px] leading-[38px] font-[500] text-white">Ready to Build Something Exceptional?</h2>
-                <p class="text-white text-[24px] leading-[29px] font-[500] font-figtree text-center">Partner with WPExperts to access reliable, scalable digital solutions that give your business a strategic edge through smart, future-ready technology.</p>
+            <div
+                class="py-[64px] px-[10px] rounded-[10px] bg-[radial-gradient(at_center_center,_#2853c4_0%,_#13285e_100%)] flex flex-col gap-[30px] items-center justify-center">
+                <h2 class="font-coopermdbtmedium text-[34px] leading-[38px] font-[500] text-white">Ready to Build
+                    Something Exceptional?</h2>
+                <p class="text-white text-[24px] leading-[29px] font-[500] font-figtree text-center">Partner with
+                    WPExperts to access reliable, scalable digital solutions that give your business a strategic edge
+                    through smart, future-ready technology.</p>
                 <div class="flex items-center justify-center">
-                    <a href="#" class="text-center bg-[#ffa410] flex items-center justify-center text-[16px] py-[14px] px-[62px] text-white font-figtree font-bold gap-[15px] rounded-[4px] hover:bg-[#d98600] transition">Get Started Now <svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512" aria-hidden="true" focussable="false"class="w-[15px] text-white"><path d="M438.6 278.6l-160 160C272.4 444.9 264.2 448 256 448s-16.38-3.125-22.62-9.375c-12.5-12.5-12.5-32.75 0-45.25L338.8 288H32C14.33 288 .0016 273.7 .0016 256S14.33 224 32 224h306.8l-105.4-105.4c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l160 160C451.1 245.9 451.1 266.1 438.6 278.6z" class="text-white fill-white"></path></svg></a>
-                    <a href="#" class="px-[40px] py-[10px] text-white underline font-figtree hover:text-[#d98600] transition">Talk to an expert</a>
+                    <a href="#"
+                        class="text-center bg-[#ffa410] flex items-center justify-center text-[16px] py-[14px] px-[62px] text-white font-figtree font-bold gap-[15px] rounded-[4px] hover:bg-[#d98600] transition">Get
+                        Started Now <svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512" aria-hidden="true"
+                            focussable="false" class="w-[15px] text-white">
+                            <path
+                                d="M438.6 278.6l-160 160C272.4 444.9 264.2 448 256 448s-16.38-3.125-22.62-9.375c-12.5-12.5-12.5-32.75 0-45.25L338.8 288H32C14.33 288 .0016 273.7 .0016 256S14.33 224 32 224h306.8l-105.4-105.4c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l160 160C451.1 245.9 451.1 266.1 438.6 278.6z"
+                                class="text-white fill-white"></path>
+                        </svg></a>
+                    <a href="#"
+                        class="px-[40px] py-[10px] text-white underline font-figtree hover:text-[#d98600] transition">Talk
+                        to an expert</a>
                 </div>
             </div>
         </div>
@@ -363,43 +484,59 @@
             <h2 class="text-[34px] font-coopermdbtmedium text-center">Our Process</h2>
             <div class="flex flex-wrap justify-between mt-[50px] gap-y-[30px]">
                 <div class="w-[32%] text-center lets-connect relative">
-                    <img src="https://wpexperts.s3.amazonaws.com/wp-content/uploads/2025/08/Frame-1321315834.svg" class="mx-auto">
+                    <img src="https://wpexperts.s3.amazonaws.com/wp-content/uploads/2025/08/Frame-1321315834.svg"
+                        class="mx-auto">
                     <h3 class="text-[24px] font-[700] font-figtree mb-[12px] text-[#13285e]">Let’s Connect</h3>
-                    <p class="text-[#13285e] mb-[20px] text-[16px] font-figtree">We’ll start with a friendly chat to fully understand your goals, vision, and specific business needs better.</p>
+                    <p class="text-[#13285e] mb-[20px] text-[16px] font-figtree">We’ll start with a friendly chat to
+                        fully understand your goals, vision, and specific business needs better.</p>
                 </div>
                 <div class="w-[32%] text-center lets-connect relative">
-                    <img src="https://wpexperts.s3.amazonaws.com/wp-content/uploads/2025/08/Frame-1321315835.svg" class="mx-auto">
+                    <img src="https://wpexperts.s3.amazonaws.com/wp-content/uploads/2025/08/Frame-1321315835.svg"
+                        class="mx-auto">
                     <h3 class="text-[24px] font-[700] font-figtree mb-[12px] text-[#13285e]">Planning</h3>
-                    <p class="text-[#13285e] mb-[20px] text-[16px] font-figtree">Through quick calls and emails, we’ll identify the big-picture objectives and outline what success looks like.</p>
+                    <p class="text-[#13285e] mb-[20px] text-[16px] font-figtree">Through quick calls and emails, we’ll
+                        identify the big-picture objectives and outline what success looks like.</p>
                 </div>
                 <div class="w-[32%] text-center">
-                    <img src="https://wpexperts.s3.amazonaws.com/wp-content/uploads/2025/08/Frame-1321315836.svg" class="mx-auto">
+                    <img src="https://wpexperts.s3.amazonaws.com/wp-content/uploads/2025/08/Frame-1321315836.svg"
+                        class="mx-auto">
                     <h3 class="text-[24px] font-[700] font-figtree mb-[12px] text-[#13285e]">Rough Estimates</h3>
-                    <p class="text-[#13285e] mb-[20px] text-[16px] font-figtree">We’ll share a rough estimate and a high-level plan so you know what to expect in terms of budget and direction.</p>
+                    <p class="text-[#13285e] mb-[20px] text-[16px] font-figtree">We’ll share a rough estimate and a
+                        high-level plan so you know what to expect in terms of budget and direction.</p>
                 </div>
                 <div class="w-[32%] text-center lets-connect relative">
-                    <img src="https://wpexperts.s3.amazonaws.com/wp-content/uploads/2025/08/Frame-1321315839.svg" class="mx-auto">
+                    <img src="https://wpexperts.s3.amazonaws.com/wp-content/uploads/2025/08/Frame-1321315839.svg"
+                        class="mx-auto">
                     <h3 class="text-[24px] font-[700] font-figtree mb-[12px] text-[#13285e]">Your Custom Proposal</h3>
-                    <p class="text-[#13285e] mb-[20px] text-[16px] font-figtree">Based on everything we’ve discussed, we’ll craft a tailored proposal with clear scope, timelines, and pricing.</p>
+                    <p class="text-[#13285e] mb-[20px] text-[16px] font-figtree">Based on everything we’ve discussed,
+                        we’ll craft a tailored proposal with clear scope, timelines, and pricing.</p>
                 </div>
                 <div class="w-[32%] text-center lets-connect relative">
-                    <img src="https://wpexperts.s3.amazonaws.com/wp-content/uploads/2025/08/Frame-1321315838.svg" class="mx-auto">
-                    <h3 class="text-[24px] font-[700] font-figtree mb-[12px] text-[#13285e]">Time to Kick Things Off</h3>
-                    <p class="text-[#13285e] mb-[20px] text-[16px] font-figtree">Ready to roll? We’ll handle the paperwork and get you fully onboarded—no stress, no surprises!</p>
+                    <img src="https://wpexperts.s3.amazonaws.com/wp-content/uploads/2025/08/Frame-1321315838.svg"
+                        class="mx-auto">
+                    <h3 class="text-[24px] font-[700] font-figtree mb-[12px] text-[#13285e]">Time to Kick Things Off
+                    </h3>
+                    <p class="text-[#13285e] mb-[20px] text-[16px] font-figtree">Ready to roll? We’ll handle the
+                        paperwork and get you fully onboarded—no stress, no surprises!</p>
                 </div>
                 <div class="w-[32%] text-center">
-                    <img src="https://wpexperts.s3.amazonaws.com/wp-content/uploads/2025/08/Frame-1321315837.svg" class="mx-auto">
+                    <img src="https://wpexperts.s3.amazonaws.com/wp-content/uploads/2025/08/Frame-1321315837.svg"
+                        class="mx-auto">
                     <h3 class="text-[24px] font-[700] font-figtree mb-[12px] text-[#13285e]">Project Begins</h3>
-                    <p class="text-[#13285e] mb-[20px] text-[16px] font-figtree">With everything in place, we hit the ground running. Timelines are locked, goals are clear, and the real work begins!</p>
+                    <p class="text-[#13285e] mb-[20px] text-[16px] font-figtree">With everything in place, we hit the
+                        ground running. Timelines are locked, goals are clear, and the real work begins!</p>
                 </div>
             </div>
-            <a href="#" class="font-figtree text-[20px] px-[44px] py-[20px] font-[600] bg-[#ff9900] rounded-[6px] flex mx-auto w-fit mt-[40px]">Get Started Now!</a>
+            <a href="#"
+                class="font-figtree text-[20px] px-[44px] py-[20px] font-[600] bg-[#ff9900] rounded-[6px] flex mx-auto w-fit mt-[40px]">Get
+                Started Now!</a>
         </div>
     </section>
 
 
     <section class="max-w-[1240px] mx-auto mt-[44px]  relative">
-        <h3 class="text-[34px] leading-[1.3] font-medium text-center mt-[44px] mb-[44px] font-coopermdbtmedium max-w-[785px] mx-auto">
+        <h3
+            class="text-[34px] leading-[1.3] font-medium text-center mt-[44px] mb-[44px] font-coopermdbtmedium max-w-[785px] mx-auto">
             FAQs About WPExperts Services Across the United States</h3>
         <div class="max-w-[65%] mx-auto mb-[70px]">
             <!-- FAQ Item -->
@@ -568,12 +705,12 @@
 
             <!-- Left -->
             <div class="flex-1 p-[10px]">
-                <h4
-                    class="text-[40px] leading-[1.3] font-medium text-[#13285e] font-coopermdbtmedium mb-5">
+                <h4 class="text-[40px] leading-[1.3] font-medium text-[#13285e] font-coopermdbtmedium mb-5">
                     WordPress Pro Services for You!
                 </h4>
                 <a href="#"
-                    class="px-[44px] leading-[1em] py-[20px] font-figtree text-[20px] bg-[#ff9900] shadow-[0px 0px 0 #00000026] border-solid border border-[#00000000] rounded-[4px] text-white hover:bg-black flex w-fit gap-[8px] items-center transition-all duration-300 ease-in-out">Get Starter Now!
+                    class="px-[44px] leading-[1em] py-[20px] font-figtree text-[20px] bg-[#ff9900] shadow-[0px 0px 0 #00000026] border-solid border border-[#00000000] rounded-[4px] text-white hover:bg-black flex w-fit gap-[8px] items-center transition-all duration-300 ease-in-out">Get
+                    Starter Now!
                 </a>
             </div>
             <!-- Right -->

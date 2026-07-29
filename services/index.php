@@ -398,7 +398,46 @@
             </div>
 
         </div>
+        <!-- tabs section script  -->
+        <script>
+            const tabs = document.querySelectorAll('.tab-item');
+            const contents = document.querySelectorAll('.tab-content');
 
+            tabs.forEach(tab => {
+                tab.addEventListener('click', () => {
+                    const target = tab.dataset.tab;
+
+                    // Remove active state
+                    tabs.forEach(item => {
+                        item.classList.remove(
+                            'bg-[#EEF4FF]',
+                            'border-l-[#A1BBFF]',
+                            'text-[#13285e]',
+                            'font-semibold'
+                        );
+                        item.classList.add('hover:bg-[#f5f5f5]');
+                    });
+
+                    // Hide all content
+                    contents.forEach(content => {
+                        content.classList.add('hidden');
+                    });
+
+                    // Activate clicked tab
+                    tab.classList.add(
+                        'bg-[#EEF4FF]',
+                        'border-l-[#A1BBFF]',
+                        'text-[#13285e]',
+                        'font-semibold'
+                    );
+                    tab.classList.remove('hover:bg-[#f5f5f5]');
+                    // Show matching content
+                    document
+                        .querySelector(`[data-content="${target}"]`)
+                        .classList.remove('hidden');
+                });
+            });
+        </script>
     </section>
 
     <section class="grid grid-cols-1 lg:grid-cols-2">
@@ -649,312 +688,282 @@
                 </span>
             </button>
         </div>
+        <!-- Services hide and show more  -->
+        <script>
+            document.addEventListener('DOMContentLoaded', () => {
+                const services = document.querySelector('.services-main');
+                const button = document.querySelector('.services-toggle');
+                const buttonText = button.querySelector('.services-toggle-text');
+                const icon = button.querySelector('svg');
+                if (!services || !button) return;
+
+                button.addEventListener('click', () => {
+
+                    if (services.classList.contains('expanded')) {
+
+                        services.style.maxHeight = '500px';
+                        services.classList.remove('expanded');
+                        buttonText.textContent = 'View More';
+                        icon.classList.add('rotate-180');
+
+                    } else {
+
+                        services.style.maxHeight = services.scrollHeight + 'px';
+                        services.classList.add('expanded');
+                        buttonText.textContent = 'View Less';
+                        icon.classList.remove('rotate-180');
+
+                    }
+
+                });
+            });
+        </script>
     </section>
-    <section class="max-w-[1240px] mx-auto mt-[44px]  relative">
+    <section class="mt-[44px]  relative">
         <h3 class="text-[34px] leading-[1.3] font-medium text-center mt-[44px] mb-[44px] font-coopermdbtmedium">
             Frequently Asked Questions</h3>
-        <div class="max-w-[65%] mx-auto mb-[70px]">
-            <!-- FAQ Item -->
-            <div class="faq-item bg-white border border-[#dfdfdf] rounded-md mb-2">
-                <!-- Question -->
-                <button class="faq-toggle w-full flex items-center justify-between p-6 text-left cursor-pointer">
-                    <h5 class="font-[Figtree] font-medium text-[18px] leading-[21px]">
-                        What services does WPExperts offer?
-                    </h5>
-                    <span class="p-2 bg-[#e9efff] rounded-md flex items-center justify-center">
-                        <!-- Plus Icon (Closed) -->
-                        <svg class="faq-icon-open w-[15px] h-[15px] fill-current" xmlns="http://www.w3.org/2000/svg"
-                            viewBox="0 0 448 512">
-                            <path
-                                d="M256 80c0-17.67-14.33-32-32-32s-32 14.33-32 32V192H80c-17.67 0-32 14.33-32 32s14.33 32 32 32H192V368c0 17.67 14.33 32 32 32s32-14.33 32-32V256H368c17.67 0 32-14.33 32-32s-14.33-32-32-32H256V80z" />
-                        </svg>
-                        <!-- Minus Icon (Open) -->
-                        <svg class="faq-icon-close hidden w-[15px] h-[15px] fill-current"
-                            xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
-                            <path
-                                d="M416 224H32c-17.67 0-32 14.33-32 32s14.33 32 32 32H416c17.67 0 32-14.33 32-32S433.7 224 416 224z" />
-                        </svg>
-                    </span>
-                </button>
-                <!-- Answer -->
-                <div class="faq-content  max-h-0 overflow-hidden opacity-0 transition-all duration-300 ease-in-out">
-                    <div class="pt-0 pb-6 pr-[100px] pl-6">
-                        <p class="font-[Figtree] text-[14px] leading-[1.6]">
-                            WPExperts provides WordPress development, WooCommerce solutions, AI integrations, website
-                            maintenance, performance optimization, and enterprise-level digital services.
-                        </p>
+        <div class="max-w-[1240px] mx-auto">
+            <div class="max-w-[65%] mx-auto mb-[70px]">
+                <!-- FAQ Item -->
+                <div class="faq-item bg-white border border-[#dfdfdf] rounded-md mb-2">
+                    <!-- Question -->
+                    <button class="faq-toggle w-full flex items-center justify-between p-6 text-left cursor-pointer">
+                        <h5 class="font-[Figtree] font-medium text-[18px] leading-[21px]">
+                            What services does WPExperts offer?
+                        </h5>
+                        <span class="p-2 bg-[#e9efff] rounded-md flex items-center justify-center">
+                            <!-- Plus Icon (Closed) -->
+                            <svg class="faq-icon-open w-[15px] h-[15px] fill-current" xmlns="http://www.w3.org/2000/svg"
+                                viewBox="0 0 448 512">
+                                <path
+                                    d="M256 80c0-17.67-14.33-32-32-32s-32 14.33-32 32V192H80c-17.67 0-32 14.33-32 32s14.33 32 32 32H192V368c0 17.67 14.33 32 32 32s32-14.33 32-32V256H368c17.67 0 32-14.33 32-32s-14.33-32-32-32H256V80z" />
+                            </svg>
+                            <!-- Minus Icon (Open) -->
+                            <svg class="faq-icon-close hidden w-[15px] h-[15px] fill-current"
+                                xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+                                <path
+                                    d="M416 224H32c-17.67 0-32 14.33-32 32s14.33 32 32 32H416c17.67 0 32-14.33 32-32S433.7 224 416 224z" />
+                            </svg>
+                        </span>
+                    </button>
+                    <!-- Answer -->
+                    <div class="faq-content  max-h-0 overflow-hidden opacity-0 transition-all duration-300 ease-in-out">
+                        <div class="pt-0 pb-6 pr-[100px] pl-6">
+                            <p class="font-[Figtree] text-[14px] leading-[1.6]">
+                                WPExperts provides WordPress development, WooCommerce solutions, AI integrations,
+                                website
+                                maintenance, performance optimization, and enterprise-level digital services.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <!-- FAQ Item -->
+                <div class="faq-item bg-white border border-[#dfdfdf] rounded-md mb-2">
+                    <!-- Question -->
+                    <button class="faq-toggle w-full flex items-center justify-between p-6 text-left cursor-pointer">
+                        <h5 class="font-[Figtree] font-medium text-[18px] leading-[21px]">
+                            What services does WPExperts offer?
+                        </h5>
+                        <span class="p-2 bg-[#e9efff] rounded-md flex items-center justify-center">
+                            <!-- Plus Icon (Closed) -->
+                            <svg class="faq-icon-open w-[15px] h-[15px] fill-current" xmlns="http://www.w3.org/2000/svg"
+                                viewBox="0 0 448 512">
+                                <path
+                                    d="M256 80c0-17.67-14.33-32-32-32s-32 14.33-32 32V192H80c-17.67 0-32 14.33-32 32s14.33 32 32 32H192V368c0 17.67 14.33 32 32 32s32-14.33 32-32V256H368c17.67 0 32-14.33 32-32s-14.33-32-32-32H256V80z" />
+                            </svg>
+                            <!-- Minus Icon (Open) -->
+                            <svg class="faq-icon-close hidden w-[15px] h-[15px] fill-current"
+                                xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+                                <path
+                                    d="M416 224H32c-17.67 0-32 14.33-32 32s14.33 32 32 32H416c17.67 0 32-14.33 32-32S433.7 224 416 224z" />
+                            </svg>
+                        </span>
+                    </button>
+                    <!-- Answer -->
+                    <div class="faq-content  max-h-0 overflow-hidden opacity-0 transition-all duration-300 ease-in-out">
+                        <div class="pt-0 pb-6 pr-[100px] pl-6">
+                            <p class="font-[Figtree] text-[14px] leading-[1.6]">
+                                WPExperts provides WordPress development, WooCommerce solutions, AI integrations,
+                                website
+                                maintenance, performance optimization, and enterprise-level digital services.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <!-- FAQ Item -->
+                <div class="faq-item bg-white border border-[#dfdfdf] rounded-md mb-2">
+                    <!-- Question -->
+                    <button class="faq-toggle w-full flex items-center justify-between p-6 text-left cursor-pointer">
+                        <h5 class="font-[Figtree] font-medium text-[18px] leading-[21px]">
+                            What services does WPExperts offer?
+                        </h5>
+                        <span class="p-2 bg-[#e9efff] rounded-md flex items-center justify-center">
+                            <!-- Plus Icon (Closed) -->
+                            <svg class="faq-icon-open w-[15px] h-[15px] fill-current" xmlns="http://www.w3.org/2000/svg"
+                                viewBox="0 0 448 512">
+                                <path
+                                    d="M256 80c0-17.67-14.33-32-32-32s-32 14.33-32 32V192H80c-17.67 0-32 14.33-32 32s14.33 32 32 32H192V368c0 17.67 14.33 32 32 32s32-14.33 32-32V256H368c17.67 0 32-14.33 32-32s-14.33-32-32-32H256V80z" />
+                            </svg>
+                            <!-- Minus Icon (Open) -->
+                            <svg class="faq-icon-close hidden w-[15px] h-[15px] fill-current"
+                                xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+                                <path
+                                    d="M416 224H32c-17.67 0-32 14.33-32 32s14.33 32 32 32H416c17.67 0 32-14.33 32-32S433.7 224 416 224z" />
+                            </svg>
+                        </span>
+                    </button>
+                    <!-- Answer -->
+                    <div class="faq-content  max-h-0 overflow-hidden opacity-0 transition-all duration-300 ease-in-out">
+                        <div class="pt-0 pb-6 pr-[100px] pl-6">
+                            <p class="font-[Figtree] text-[14px] leading-[1.6]">
+                                WPExperts provides WordPress development, WooCommerce solutions, AI integrations,
+                                website
+                                maintenance, performance optimization, and enterprise-level digital services.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <!-- FAQ Item -->
+                <div class="faq-item bg-white border border-[#dfdfdf] rounded-md mb-2">
+                    <!-- Question -->
+                    <button class="faq-toggle w-full flex items-center justify-between p-6 text-left cursor-pointer">
+                        <h5 class="font-[Figtree] font-medium text-[18px] leading-[21px]">
+                            What services does WPExperts offer?
+                        </h5>
+                        <span class="p-2 bg-[#e9efff] rounded-md flex items-center justify-center">
+                            <!-- Plus Icon (Closed) -->
+                            <svg class="faq-icon-open w-[15px] h-[15px] fill-current" xmlns="http://www.w3.org/2000/svg"
+                                viewBox="0 0 448 512">
+                                <path
+                                    d="M256 80c0-17.67-14.33-32-32-32s-32 14.33-32 32V192H80c-17.67 0-32 14.33-32 32s14.33 32 32 32H192V368c0 17.67 14.33 32 32 32s32-14.33 32-32V256H368c17.67 0 32-14.33 32-32s-14.33-32-32-32H256V80z" />
+                            </svg>
+                            <!-- Minus Icon (Open) -->
+                            <svg class="faq-icon-close hidden w-[15px] h-[15px] fill-current"
+                                xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+                                <path
+                                    d="M416 224H32c-17.67 0-32 14.33-32 32s14.33 32 32 32H416c17.67 0 32-14.33 32-32S433.7 224 416 224z" />
+                            </svg>
+                        </span>
+                    </button>
+                    <!-- Answer -->
+                    <div class="faq-content  max-h-0 overflow-hidden opacity-0 transition-all duration-300 ease-in-out">
+                        <div class="pt-0 pb-6 pr-[100px] pl-6">
+                            <p class="font-[Figtree] text-[14px] leading-[1.6]">
+                                WPExperts provides WordPress development, WooCommerce solutions, AI integrations,
+                                website
+                                maintenance, performance optimization, and enterprise-level digital services.
+                            </p>
+                        </div>
+                    </div>
+                </div>
+                <!-- FAQ Item -->
+                <div class="faq-item bg-white border border-[#dfdfdf] rounded-md mb-2">
+                    <!-- Question -->
+                    <button class="faq-toggle w-full flex items-center justify-between p-6 text-left cursor-pointer">
+                        <h5 class="font-[Figtree] font-medium text-[18px] leading-[21px] ">
+                            What services does WPExperts offer?
+                        </h5>
+                        <span class="p-2 bg-[#e9efff] rounded-md flex items-center justify-center">
+                            <!-- Plus Icon (Closed) -->
+                            <svg class="faq-icon-open w-[15px] h-[15px] fill-current" xmlns="http://www.w3.org/2000/svg"
+                                viewBox="0 0 448 512">
+                                <path
+                                    d="M256 80c0-17.67-14.33-32-32-32s-32 14.33-32 32V192H80c-17.67 0-32 14.33-32 32s14.33 32 32 32H192V368c0 17.67 14.33 32 32 32s32-14.33 32-32V256H368c17.67 0 32-14.33 32-32s-14.33-32-32-32H256V80z" />
+                            </svg>
+                            <!-- Minus Icon (Open) -->
+                            <svg class="faq-icon-close hidden w-[15px] h-[15px] fill-current"
+                                xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+                                <path
+                                    d="M416 224H32c-17.67 0-32 14.33-32 32s14.33 32 32 32H416c17.67 0 32-14.33 32-32S433.7 224 416 224z" />
+                            </svg>
+                        </span>
+                    </button>
+                    <!-- Answer -->
+                    <div class="faq-content  max-h-0 overflow-hidden opacity-0 transition-all duration-300 ease-in-out">
+                        <div class="pt-0 pb-6 pr-[100px] pl-6">
+                            <p class="font-[Figtree] text-[14px] leading-[1.6]">
+                                WPExperts provides WordPress development, WooCommerce solutions, AI integrations,
+                                website
+                                maintenance, performance optimization, and enterprise-level digital services.
+                            </p>
+                        </div>
                     </div>
                 </div>
             </div>
-            <!-- FAQ Item -->
-            <div class="faq-item bg-white border border-[#dfdfdf] rounded-md mb-2">
-                <!-- Question -->
-                <button class="faq-toggle w-full flex items-center justify-between p-6 text-left cursor-pointer">
-                    <h5 class="font-[Figtree] font-medium text-[18px] leading-[21px]">
-                        What services does WPExperts offer?
-                    </h5>
-                    <span class="p-2 bg-[#e9efff] rounded-md flex items-center justify-center">
-                        <!-- Plus Icon (Closed) -->
-                        <svg class="faq-icon-open w-[15px] h-[15px] fill-current" xmlns="http://www.w3.org/2000/svg"
-                            viewBox="0 0 448 512">
-                            <path
-                                d="M256 80c0-17.67-14.33-32-32-32s-32 14.33-32 32V192H80c-17.67 0-32 14.33-32 32s14.33 32 32 32H192V368c0 17.67 14.33 32 32 32s32-14.33 32-32V256H368c17.67 0 32-14.33 32-32s-14.33-32-32-32H256V80z" />
-                        </svg>
-                        <!-- Minus Icon (Open) -->
-                        <svg class="faq-icon-close hidden w-[15px] h-[15px] fill-current"
-                            xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
-                            <path
-                                d="M416 224H32c-17.67 0-32 14.33-32 32s14.33 32 32 32H416c17.67 0 32-14.33 32-32S433.7 224 416 224z" />
-                        </svg>
-                    </span>
-                </button>
-                <!-- Answer -->
-                <div class="faq-content  max-h-0 overflow-hidden opacity-0 transition-all duration-300 ease-in-out">
-                    <div class="pt-0 pb-6 pr-[100px] pl-6">
-                        <p class="font-[Figtree] text-[14px] leading-[1.6]">
-                            WPExperts provides WordPress development, WooCommerce solutions, AI integrations, website
-                            maintenance, performance optimization, and enterprise-level digital services.
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <!-- FAQ Item -->
-            <div class="faq-item bg-white border border-[#dfdfdf] rounded-md mb-2">
-                <!-- Question -->
-                <button class="faq-toggle w-full flex items-center justify-between p-6 text-left cursor-pointer">
-                    <h5 class="font-[Figtree] font-medium text-[18px] leading-[21px]">
-                        What services does WPExperts offer?
-                    </h5>
-                    <span class="p-2 bg-[#e9efff] rounded-md flex items-center justify-center">
-                        <!-- Plus Icon (Closed) -->
-                        <svg class="faq-icon-open w-[15px] h-[15px] fill-current" xmlns="http://www.w3.org/2000/svg"
-                            viewBox="0 0 448 512">
-                            <path
-                                d="M256 80c0-17.67-14.33-32-32-32s-32 14.33-32 32V192H80c-17.67 0-32 14.33-32 32s14.33 32 32 32H192V368c0 17.67 14.33 32 32 32s32-14.33 32-32V256H368c17.67 0 32-14.33 32-32s-14.33-32-32-32H256V80z" />
-                        </svg>
-                        <!-- Minus Icon (Open) -->
-                        <svg class="faq-icon-close hidden w-[15px] h-[15px] fill-current"
-                            xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
-                            <path
-                                d="M416 224H32c-17.67 0-32 14.33-32 32s14.33 32 32 32H416c17.67 0 32-14.33 32-32S433.7 224 416 224z" />
-                        </svg>
-                    </span>
-                </button>
-                <!-- Answer -->
-                <div class="faq-content  max-h-0 overflow-hidden opacity-0 transition-all duration-300 ease-in-out">
-                    <div class="pt-0 pb-6 pr-[100px] pl-6">
-                        <p class="font-[Figtree] text-[14px] leading-[1.6]">
-                            WPExperts provides WordPress development, WooCommerce solutions, AI integrations, website
-                            maintenance, performance optimization, and enterprise-level digital services.
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <!-- FAQ Item -->
-            <div class="faq-item bg-white border border-[#dfdfdf] rounded-md mb-2">
-                <!-- Question -->
-                <button class="faq-toggle w-full flex items-center justify-between p-6 text-left cursor-pointer">
-                    <h5 class="font-[Figtree] font-medium text-[18px] leading-[21px]">
-                        What services does WPExperts offer?
-                    </h5>
-                    <span class="p-2 bg-[#e9efff] rounded-md flex items-center justify-center">
-                        <!-- Plus Icon (Closed) -->
-                        <svg class="faq-icon-open w-[15px] h-[15px] fill-current" xmlns="http://www.w3.org/2000/svg"
-                            viewBox="0 0 448 512">
-                            <path
-                                d="M256 80c0-17.67-14.33-32-32-32s-32 14.33-32 32V192H80c-17.67 0-32 14.33-32 32s14.33 32 32 32H192V368c0 17.67 14.33 32 32 32s32-14.33 32-32V256H368c17.67 0 32-14.33 32-32s-14.33-32-32-32H256V80z" />
-                        </svg>
-                        <!-- Minus Icon (Open) -->
-                        <svg class="faq-icon-close hidden w-[15px] h-[15px] fill-current"
-                            xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
-                            <path
-                                d="M416 224H32c-17.67 0-32 14.33-32 32s14.33 32 32 32H416c17.67 0 32-14.33 32-32S433.7 224 416 224z" />
-                        </svg>
-                    </span>
-                </button>
-                <!-- Answer -->
-                <div class="faq-content  max-h-0 overflow-hidden opacity-0 transition-all duration-300 ease-in-out">
-                    <div class="pt-0 pb-6 pr-[100px] pl-6">
-                        <p class="font-[Figtree] text-[14px] leading-[1.6]">
-                            WPExperts provides WordPress development, WooCommerce solutions, AI integrations, website
-                            maintenance, performance optimization, and enterprise-level digital services.
-                        </p>
-                    </div>
-                </div>
-            </div>
-            <!-- FAQ Item -->
-            <div class="faq-item bg-white border border-[#dfdfdf] rounded-md mb-2">
-                <!-- Question -->
-                <button class="faq-toggle w-full flex items-center justify-between p-6 text-left cursor-pointer">
-                    <h5 class="font-[Figtree] font-medium text-[18px] leading-[21px] ">
-                        What services does WPExperts offer?
-                    </h5>
-                    <span class="p-2 bg-[#e9efff] rounded-md flex items-center justify-center">
-                        <!-- Plus Icon (Closed) -->
-                        <svg class="faq-icon-open w-[15px] h-[15px] fill-current" xmlns="http://www.w3.org/2000/svg"
-                            viewBox="0 0 448 512">
-                            <path
-                                d="M256 80c0-17.67-14.33-32-32-32s-32 14.33-32 32V192H80c-17.67 0-32 14.33-32 32s14.33 32 32 32H192V368c0 17.67 14.33 32 32 32s32-14.33 32-32V256H368c17.67 0 32-14.33 32-32s-14.33-32-32-32H256V80z" />
-                        </svg>
-                        <!-- Minus Icon (Open) -->
-                        <svg class="faq-icon-close hidden w-[15px] h-[15px] fill-current"
-                            xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
-                            <path
-                                d="M416 224H32c-17.67 0-32 14.33-32 32s14.33 32 32 32H416c17.67 0 32-14.33 32-32S433.7 224 416 224z" />
-                        </svg>
-                    </span>
-                </button>
-                <!-- Answer -->
-                <div class="faq-content  max-h-0 overflow-hidden opacity-0 transition-all duration-300 ease-in-out">
-                    <div class="pt-0 pb-6 pr-[100px] pl-6">
-                        <p class="font-[Figtree] text-[14px] leading-[1.6]">
-                            WPExperts provides WordPress development, WooCommerce solutions, AI integrations, website
-                            maintenance, performance optimization, and enterprise-level digital services.
-                        </p>
-                    </div>
-                </div>
-            </div>
+            <!-- Faqs Script  -->
+            <script>
+                document.querySelectorAll('.faq-toggle').forEach(button => {
+
+                    button.addEventListener('click', () => {
+
+                        const currentItem = button.closest('.faq-item');
+                        const currentContent = currentItem.querySelector('.faq-content');
+                        const currentPlus = currentItem.querySelector('.faq-icon-open');
+                        const currentMinus = currentItem.querySelector('.faq-icon-close');
+
+                        const isOpen = currentContent.style.maxHeight && currentContent.style.maxHeight !== '0px';
+
+                        // Close all
+                        document.querySelectorAll('.faq-item').forEach(item => {
+                            const content = item.querySelector('.faq-content');
+
+                            content.style.maxHeight = '0px';
+                            content.classList.add('opacity-0');
+
+                            item.querySelector('.faq-icon-open').classList.remove('hidden');
+                            item.querySelector('.faq-icon-close').classList.add('hidden');
+                        });
+
+                        // Open clicked one
+                        if (!isOpen) {
+                            currentContent.style.maxHeight = currentContent.scrollHeight + 'px';
+                            currentContent.classList.remove('opacity-0');
+
+                            currentPlus.classList.add('hidden');
+                            currentMinus.classList.remove('hidden');
+                        }
+
+                    });
+
+                });
+            </script>
         </div>
         <div
-            class="max-w-[935px] absolute z-[99] left-0 right-0 bottom-[-60px] pl-[74px] pr-[60px] border border-[#13285e] rounded-[20px] bg-white flex flex-row items-center justify-center flex-nowrap gap-5 mx-auto overflow-hidden relative after:content-[''] after:absolute after:right-[-192px] after:top-[-219px] after:w-[708px] after:h-[708px] after:rounded-[708px] after:bg-[#D4E0FF] after:blur-[247.5px] after:-z-10">
+            class="flex justify-center relative after:content-[''] after:absolute after:left-0 after:bottom-0 after:w-full after:h-1/2 after:bg-black after:pointer-events-none after:-z-1">
+            <div
+                class="max-w-[935px] z-[1] left-0 right-0 pl-[74px] pr-[60px] border border-[#13285e] rounded-[20px] bg-white flex flex-row items-center justify-center flex-nowrap gap-5 overflow-hidden relative after:content-[''] after:absolute after:right-[-192px] after:top-[-219px] after:w-[708px] after:h-[708px] after:rounded-[708px] after:bg-[#D4E0FF] after:blur-[247.5px] after:-z-10">
 
-            <!-- Left -->
-            <div class="flex-1 p-[10px]">
-                <h4
-                    class="font-[Figtree] text-[40px] leading-[1.3] font-medium text-[#13285e] font-coopermdbtmedium mb-5">
-                    Professional Services for You!
-                </h4>
-                <a href="#"
-                    class="px-[44px] leading-[1em] py-[20px] font-figtree font-semibold text-[20px] bg-[#ff9900] shadow-[0px 0px 0 #00000026] border-solid border border-[#00000000] rounded-[4px] hover:border-[#ff9900] flex w-fit gap-[8px] items-center transition-all duration-300 ease-in-out">Explore
-                    Our Services
-                    <span class="flex">
-                        <svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 320 512" aria-hidden="true"
-                            focussable="false" class="w-[15px] h-[15px] fill-[currentColor]">
-                            <path
-                                d="M9.375 329.4c12.51-12.51 32.76-12.49 45.25 0L128 402.8V32c0-17.69 14.31-32 32-32s32 14.31 32 32v370.8l73.38-73.38c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-128 128c-12.5 12.5-32.75 12.5-45.25 0l-128-128C-3.125 362.1-3.125 341.9 9.375 329.4z">
-                            </path>
-                        </svg>
-                    </span>
-                </a>
-            </div>
-            <!-- Right -->
-            <div class="flex-1 p-[10px]">
-                <img src="http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/pro-services.svg" alt=""
-                    class="w-full h-auto">
-            </div>
+                <!-- Left -->
+                <div class="flex-1 p-[10px]">
+                    <h4
+                        class="font-[Figtree] text-[40px] leading-[1.3] font-medium text-[#13285e] font-coopermdbtmedium mb-5">
+                        Professional Services for You!
+                    </h4>
+                    <a href="#"
+                        class="px-[44px] leading-[1em] py-[20px] font-figtree font-semibold text-[20px] bg-[#ff9900] shadow-[0px 0px 0 #00000026] border-solid border border-[#00000000] rounded-[4px] hover:border-[#ff9900] flex w-fit gap-[8px] items-center transition-all duration-300 ease-in-out">Explore
+                        Our Services
+                        <span class="flex">
+                            <svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 320 512" aria-hidden="true"
+                                focussable="false" class="w-[15px] h-[15px] fill-[currentColor]">
+                                <path
+                                    d="M9.375 329.4c12.51-12.51 32.76-12.49 45.25 0L128 402.8V32c0-17.69 14.31-32 32-32s32 14.31 32 32v370.8l73.38-73.38c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-128 128c-12.5 12.5-32.75 12.5-45.25 0l-128-128C-3.125 362.1-3.125 341.9 9.375 329.4z">
+                                </path>
+                            </svg>
+                        </span>
+                    </a>
+                </div>
+                <!-- Right -->
+                <div class="flex-1 p-[10px]">
+                    <img src="http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/pro-services.svg" alt=""
+                        class="w-full h-auto">
+                </div>
 
+            </div>
         </div>
     </section>
 
     <?php require_once('../templates/global/footer.php') ?>
-    <!-- tabs section script  -->
-    <script>
-        const tabs = document.querySelectorAll('.tab-item');
-        const contents = document.querySelectorAll('.tab-content');
 
-        tabs.forEach(tab => {
-            tab.addEventListener('click', () => {
-                const target = tab.dataset.tab;
-
-                // Remove active state
-                tabs.forEach(item => {
-                    item.classList.remove(
-                        'bg-[#EEF4FF]',
-                        'border-l-[#A1BBFF]',
-                        'text-[#13285e]',
-                        'font-semibold'
-                    );
-                    item.classList.add('hover:bg-[#f5f5f5]');
-                });
-
-                // Hide all content
-                contents.forEach(content => {
-                    content.classList.add('hidden');
-                });
-
-                // Activate clicked tab
-                tab.classList.add(
-                    'bg-[#EEF4FF]',
-                    'border-l-[#A1BBFF]',
-                    'text-[#13285e]',
-                    'font-semibold'
-                );
-                tab.classList.remove('hover:bg-[#f5f5f5]');
-                // Show matching content
-                document
-                    .querySelector(`[data-content="${target}"]`)
-                    .classList.remove('hidden');
-            });
-        });
-    </script>
-
-    <!-- Services hide and show more  -->
-    <script>
-        document.addEventListener('DOMContentLoaded', () => {
-            const services = document.querySelector('.services-main');
-            const button = document.querySelector('.services-toggle');
-            const buttonText = button.querySelector('.services-toggle-text');
-            const icon = button.querySelector('svg');
-            if (!services || !button) return;
-
-            button.addEventListener('click', () => {
-
-                if (services.classList.contains('expanded')) {
-
-                    services.style.maxHeight = '500px';
-                    services.classList.remove('expanded');
-                    buttonText.textContent = 'View More';
-                    icon.classList.add('rotate-180');
-
-                } else {
-
-                    services.style.maxHeight = services.scrollHeight + 'px';
-                    services.classList.add('expanded');
-                    buttonText.textContent = 'View Less';
-                    icon.classList.remove('rotate-180');
-
-                }
-
-            });
-        });
-    </script>
-    <!-- Faqs Script  -->
-    <script>
-        document.querySelectorAll('.faq-toggle').forEach(button => {
-
-            button.addEventListener('click', () => {
-
-                const currentItem = button.closest('.faq-item');
-                const currentContent = currentItem.querySelector('.faq-content');
-                const currentPlus = currentItem.querySelector('.faq-icon-open');
-                const currentMinus = currentItem.querySelector('.faq-icon-close');
-
-                const isOpen = currentContent.style.maxHeight && currentContent.style.maxHeight !== '0px';
-
-                // Close all
-                document.querySelectorAll('.faq-item').forEach(item => {
-                    const content = item.querySelector('.faq-content');
-
-                    content.style.maxHeight = '0px';
-                    content.classList.add('opacity-0');
-
-                    item.querySelector('.faq-icon-open').classList.remove('hidden');
-                    item.querySelector('.faq-icon-close').classList.add('hidden');
-                });
-
-                // Open clicked one
-                if (!isOpen) {
-                    currentContent.style.maxHeight = currentContent.scrollHeight + 'px';
-                    currentContent.classList.remove('opacity-0');
-
-                    currentPlus.classList.add('hidden');
-                    currentMinus.classList.remove('hidden');
-                }
-
-            });
-
-        });
-    </script>
 </body>
 
 </html>
