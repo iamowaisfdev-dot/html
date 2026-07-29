@@ -68,16 +68,6 @@
 
 <body>
     <?php require_once('../templates/global/header.php') ?>
-    <style>
-        .row {
-            display: flex;
-            align-items: center;
-            justify-content: space-between;
-            flex-wrap: nowrap;
-            row-gap: 20px;
-            column-gap: 20px;
-        }
-    </style>
     <section class="innerbanner bg-[#13285e] pt-[65px] pb-[10px] px-[10px] gap-[20px] mt-[68px]">
         <div class="max-w-[1240px] mx-auto flex gap-[50px] p-2.5 items-center">
             <div class="flex-1 p-2.5 ">
@@ -110,7 +100,7 @@
 
             </div>
         </div>
-        <div class="max-w-[1240px] mx-auto py-11 px-5 row">
+        <div class="max-w-[1240px] mx-auto py-11 px-5 flex items-center justify-between flex-nowrap gap-5">
             <img src="http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/wordpress-logo.svg" alt="">
             <img src="http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/Woo-logo.svg" alt="">
             <img src="http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/stripe-logo.svg" alt="">
