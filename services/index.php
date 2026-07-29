@@ -521,8 +521,8 @@
 
     </section>
     <section class="max-w-[1240px] mx-auto">
-        <h3 class="text-[34px] leading-[1.3] font-medium text-center mt-[44px] mb-[44px] font-coopermdbtmedium">
-            WPExperts Digital Services Driving Success Across Industries</h3>
+        <h2 class="text-[34px] leading-[1.3] font-medium text-center mt-[44px] mb-[44px] font-coopermdbtmedium">
+            WPExperts Digital Services Driving Success Across Industries</h2>
         <div
             class="services-main grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 max-h-[500px] overflow-hidden transition-all duration-300">
 
@@ -530,9 +530,9 @@
             <div class="service-card p-6">
                 <img src="http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/ai.svg" alt=""
                     class="w-12 h-12 mb-5">
-                <h4 class="font-[Figtree] text-2xl leading-[1.3] font-medium mb-[10px]">
+                <h3 class="font-[Figtree] text-2xl leading-[1.3] font-medium mb-[10px]">
                     Artificial Intelligence (AI)
-                </h4>
+                </h3>
                 <p class="font-[Figtree] text-base font-normal leading-[1.6]">
                     Our AI development services create intelligent AI solutions that enable your business to work
                     smarter and faster, helping you make better decisions daily.
@@ -542,9 +542,9 @@
             <div class="service-card p-6">
                 <img src="http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/ai.svg" alt=""
                     class="w-12 h-12 mb-5">
-                <h4 class="font-[Figtree] text-2xl leading-[1.3] font-medium mb-[10px]">
+                <h3 class="font-[Figtree] text-2xl leading-[1.3] font-medium mb-[10px]">
                     Information Technology (IT)
-                </h4>
+                </h3>
                 <p class="font-[Figtree] text-base font-normal leading-[1.6]">
                     We offer stable IT support and digital infrastructure that makes your technology run continuously
                     without interruptions.
@@ -554,9 +554,9 @@
             <div class="service-card p-6">
                 <img src="http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/ai.svg" alt=""
                     class="w-12 h-12 mb-5">
-                <h4 class="font-[Figtree] text-2xl leading-[1.3] font-medium mb-[10px]">
+                <h3 class="font-[Figtree] text-2xl leading-[1.3] font-medium mb-[10px]">
                     E-Commerce
-                </h4>
+                </h3>
                 <p class="font-[Figtree] text-base font-normal leading-[1.6]">
                     We build online stores, set up B2B e-commerce platforms, and create digital shopping experiences
                     that turn visitors into customers.
@@ -566,9 +566,9 @@
             <div class="service-card p-6">
                 <img src="http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/ai.svg" alt=""
                     class="w-12 h-12 mb-5">
-                <h4 class="font-[Figtree] text-2xl leading-[1.3] font-medium mb-[10px]">
+                <h3 class="font-[Figtree] text-2xl leading-[1.3] font-medium mb-[10px]">
                     Finance
-                </h4>
+                </h3>
                 <p class="font-[Figtree] text-base font-normal leading-[1.6]">
                     We design safe financial software and payment systems that safeguard your money and automate your
                     business processes.
@@ -578,9 +578,9 @@
             <div class="service-card p-6">
                 <img src="http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/ai.svg" alt=""
                     class="w-12 h-12 mb-5">
-                <h4 class="font-[Figtree] text-2xl leading-[1.3] font-medium mb-[10px]">
+                <h3 class="font-[Figtree] text-2xl leading-[1.3] font-medium mb-[10px]">
                     Fashion
-                </h4>
+                </h3>
                 <p class="font-[Figtree] text-base font-normal leading-[1.6]">
                     We assist fashion brands to grow through digital marketing, e-commerce sites, and innovative
                     solutions that reflect your style.
@@ -590,9 +590,9 @@
             <div class="service-card p-6">
                 <img src="http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/ai.svg" alt=""
                     class="w-12 h-12 mb-5">
-                <h4 class="font-[Figtree] text-2xl leading-[1.3] font-medium mb-[10px]">
+                <h3 class="font-[Figtree] text-2xl leading-[1.3] font-medium mb-[10px]">
                     Health
-                </h4>
+                </h3>
                 <p class="font-[Figtree] text-base font-normal leading-[1.6]">
                     We develop healthcare technology and patient management systems that improve care delivery and
                     safeguard medical records.
@@ -602,9 +602,9 @@
             <div class="service-card p-6">
                 <img src="http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/ai.svg" alt=""
                     class="w-12 h-12 mb-5">
-                <h4 class="font-[Figtree] text-2xl leading-[1.3] font-medium mb-[10px]">
+                <h3 class="font-[Figtree] text-2xl leading-[1.3] font-medium mb-[10px]">
                     Beauty
-                </h4>
+                </h3>
                 <p class="font-[Figtree] text-base font-normal leading-[1.6]">
                     We build beauty brand websites and marketing campaigns that connect with customers and grow your
                     cosmetics business.
@@ -614,9 +614,9 @@
             <div class="service-card p-6">
                 <img src="http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/ai.svg" alt=""
                     class="w-12 h-12 mb-5">
-                <h4 class="font-[Figtree] text-2xl leading-[1.3] font-medium mb-[10px]">
+                <h3 class="font-[Figtree] text-2xl leading-[1.3] font-medium mb-[10px]">
                     Photography
-                </h4>
+                </h3>
                 <p class="font-[Figtree] text-base font-normal leading-[1.6]">
                     We create stunning photography websites and portfolio platforms that showcase your work and attract
                     more clients online.
@@ -626,9 +626,9 @@
             <div class="service-card p-6">
                 <img src="http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/ai.svg" alt=""
                     class="w-12 h-12 mb-5">
-                <h4 class="font-[Figtree] text-2xl leading-[1.3] font-medium mb-[10px]">
+                <h3 class="font-[Figtree] text-2xl leading-[1.3] font-medium mb-[10px]">
                     Non Profit
-                </h4>
+                </h3>
                 <p class="font-[Figtree] text-base font-normal leading-[1.6]">
                     We design websites and donation systems for nonprofits that tell your story and make it easy for
                     supporters.
@@ -638,9 +638,9 @@
             <div class="service-card p-6">
                 <img src="http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/ai.svg" alt=""
                     class="w-12 h-12 mb-5">
-                <h4 class="font-[Figtree] text-2xl leading-[1.3] font-medium mb-[10px]">
+                <h3 class="font-[Figtree] text-2xl leading-[1.3] font-medium mb-[10px]">
                     Real State
-                </h4>
+                </h3>
                 <p class="font-[Figtree] text-base font-normal leading-[1.6]">
                     We build property websites and listing platforms that help agents sell homes faster and connect with
                     buyers.
@@ -650,9 +650,9 @@
             <div class="service-card p-6">
                 <img src="http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/ai.svg" alt=""
                     class="w-12 h-12 mb-5">
-                <h4 class="font-[Figtree] text-2xl leading-[1.3] font-medium mb-[10px]">
+                <h3 class="font-[Figtree] text-2xl leading-[1.3] font-medium mb-[10px]">
                     Law Firm
-                </h4>
+                </h3>
                 <p class="font-[Figtree] text-base font-normal leading-[1.6]">
                     We create professional legal websites and case management systems that help law firms attract
                     clients and organize cases.
@@ -662,9 +662,9 @@
             <div class="service-card p-6">
                 <img src="http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/ai.svg" alt=""
                     class="w-12 h-12 mb-5">
-                <h4 class="font-[Figtree] text-2xl leading-[1.3] font-medium mb-[10px]">
+                <h3 class="font-[Figtree] text-2xl leading-[1.3] font-medium mb-[10px]">
                     Business
-                </h4>
+                </h3>
                 <p class="font-[Figtree] text-base font-normal leading-[1.6]">
                     We provide business consulting and digital solutions that help companies grow, save money, and work
                     more efficiently.
@@ -719,6 +719,7 @@
             });
         </script>
     </section>
+<<<<<<< Updated upstream
     <section class="mt-[44px]  relative">
         <h3 class="text-[34px] leading-[1.3] font-medium text-center mt-[44px] mb-[44px] font-coopermdbtmedium">
             Frequently Asked Questions</h3>
@@ -887,6 +888,169 @@
                                 maintenance, performance optimization, and enterprise-level digital services.
                             </p>
                         </div>
+=======
+    <section class="max-w-[1240px] mx-auto mt-[44px]  relative">
+        <h2 class="text-[34px] leading-[1.3] font-medium text-center mt-[44px] mb-[44px] font-coopermdbtmedium">
+            Frequently Asked Questions</h2>
+        <div class="max-w-[65%] mx-auto mb-[70px]">
+            <!-- FAQ Item -->
+            <div class="faq-item bg-white border border-[#dfdfdf] rounded-md mb-2">
+                <!-- Question -->
+                <button class="faq-toggle w-full flex items-center justify-between p-6 text-left cursor-pointer">
+                    <div class="font-[Figtree] font-medium text-[18px] leading-[21px]">
+                        What services does WPExperts offer?
+                    </div>
+                    <span class="p-2 bg-[#e9efff] rounded-md flex items-center justify-center">
+                        <!-- Plus Icon (Closed) -->
+                        <svg class="faq-icon-open w-[15px] h-[15px] fill-current" xmlns="http://www.w3.org/2000/svg"
+                            viewBox="0 0 448 512">
+                            <path
+                                d="M256 80c0-17.67-14.33-32-32-32s-32 14.33-32 32V192H80c-17.67 0-32 14.33-32 32s14.33 32 32 32H192V368c0 17.67 14.33 32 32 32s32-14.33 32-32V256H368c17.67 0 32-14.33 32-32s-14.33-32-32-32H256V80z" />
+                        </svg>
+                        <!-- Minus Icon (Open) -->
+                        <svg class="faq-icon-close hidden w-[15px] h-[15px] fill-current"
+                            xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+                            <path
+                                d="M416 224H32c-17.67 0-32 14.33-32 32s14.33 32 32 32H416c17.67 0 32-14.33 32-32S433.7 224 416 224z" />
+                        </svg>
+                    </span>
+                </button>
+                <!-- Answer -->
+                <div class="faq-content  max-h-0 overflow-hidden opacity-0 transition-all duration-300 ease-in-out">
+                    <div class="pt-0 pb-6 pr-[100px] pl-6">
+                        <p class="font-[Figtree] text-[14px] leading-[1.6]">
+                            WPExperts provides WordPress development, WooCommerce solutions, AI integrations, website
+                            maintenance, performance optimization, and enterprise-level digital services.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <!-- FAQ Item -->
+            <div class="faq-item bg-white border border-[#dfdfdf] rounded-md mb-2">
+                <!-- Question -->
+                <button class="faq-toggle w-full flex items-center justify-between p-6 text-left cursor-pointer">
+                    <div class="font-[Figtree] font-medium text-[18px] leading-[21px]">
+                        What services does WPExperts offer?
+                    </div>
+                    <span class="p-2 bg-[#e9efff] rounded-md flex items-center justify-center">
+                        <!-- Plus Icon (Closed) -->
+                        <svg class="faq-icon-open w-[15px] h-[15px] fill-current" xmlns="http://www.w3.org/2000/svg"
+                            viewBox="0 0 448 512">
+                            <path
+                                d="M256 80c0-17.67-14.33-32-32-32s-32 14.33-32 32V192H80c-17.67 0-32 14.33-32 32s14.33 32 32 32H192V368c0 17.67 14.33 32 32 32s32-14.33 32-32V256H368c17.67 0 32-14.33 32-32s-14.33-32-32-32H256V80z" />
+                        </svg>
+                        <!-- Minus Icon (Open) -->
+                        <svg class="faq-icon-close hidden w-[15px] h-[15px] fill-current"
+                            xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+                            <path
+                                d="M416 224H32c-17.67 0-32 14.33-32 32s14.33 32 32 32H416c17.67 0 32-14.33 32-32S433.7 224 416 224z" />
+                        </svg>
+                    </span>
+                </button>
+                <!-- Answer -->
+                <div class="faq-content  max-h-0 overflow-hidden opacity-0 transition-all duration-300 ease-in-out">
+                    <div class="pt-0 pb-6 pr-[100px] pl-6">
+                        <p class="font-[Figtree] text-[14px] leading-[1.6]">
+                            WPExperts provides WordPress development, WooCommerce solutions, AI integrations, website
+                            maintenance, performance optimization, and enterprise-level digital services.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <!-- FAQ Item -->
+            <div class="faq-item bg-white border border-[#dfdfdf] rounded-md mb-2">
+                <!-- Question -->
+                <button class="faq-toggle w-full flex items-center justify-between p-6 text-left cursor-pointer">
+                    <div class="font-[Figtree] font-medium text-[18px] leading-[21px]">
+                        What services does WPExperts offer?
+                    </div>
+                    <span class="p-2 bg-[#e9efff] rounded-md flex items-center justify-center">
+                        <!-- Plus Icon (Closed) -->
+                        <svg class="faq-icon-open w-[15px] h-[15px] fill-current" xmlns="http://www.w3.org/2000/svg"
+                            viewBox="0 0 448 512">
+                            <path
+                                d="M256 80c0-17.67-14.33-32-32-32s-32 14.33-32 32V192H80c-17.67 0-32 14.33-32 32s14.33 32 32 32H192V368c0 17.67 14.33 32 32 32s32-14.33 32-32V256H368c17.67 0 32-14.33 32-32s-14.33-32-32-32H256V80z" />
+                        </svg>
+                        <!-- Minus Icon (Open) -->
+                        <svg class="faq-icon-close hidden w-[15px] h-[15px] fill-current"
+                            xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+                            <path
+                                d="M416 224H32c-17.67 0-32 14.33-32 32s14.33 32 32 32H416c17.67 0 32-14.33 32-32S433.7 224 416 224z" />
+                        </svg>
+                    </span>
+                </button>
+                <!-- Answer -->
+                <div class="faq-content  max-h-0 overflow-hidden opacity-0 transition-all duration-300 ease-in-out">
+                    <div class="pt-0 pb-6 pr-[100px] pl-6">
+                        <p class="font-[Figtree] text-[14px] leading-[1.6]">
+                            WPExperts provides WordPress development, WooCommerce solutions, AI integrations, website
+                            maintenance, performance optimization, and enterprise-level digital services.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <!-- FAQ Item -->
+            <div class="faq-item bg-white border border-[#dfdfdf] rounded-md mb-2">
+                <!-- Question -->
+                <button class="faq-toggle w-full flex items-center justify-between p-6 text-left cursor-pointer">
+                    <div class="font-[Figtree] font-medium text-[18px] leading-[21px]">
+                        What services does WPExperts offer?
+                    </div>
+                    <span class="p-2 bg-[#e9efff] rounded-md flex items-center justify-center">
+                        <!-- Plus Icon (Closed) -->
+                        <svg class="faq-icon-open w-[15px] h-[15px] fill-current" xmlns="http://www.w3.org/2000/svg"
+                            viewBox="0 0 448 512">
+                            <path
+                                d="M256 80c0-17.67-14.33-32-32-32s-32 14.33-32 32V192H80c-17.67 0-32 14.33-32 32s14.33 32 32 32H192V368c0 17.67 14.33 32 32 32s32-14.33 32-32V256H368c17.67 0 32-14.33 32-32s-14.33-32-32-32H256V80z" />
+                        </svg>
+                        <!-- Minus Icon (Open) -->
+                        <svg class="faq-icon-close hidden w-[15px] h-[15px] fill-current"
+                            xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+                            <path
+                                d="M416 224H32c-17.67 0-32 14.33-32 32s14.33 32 32 32H416c17.67 0 32-14.33 32-32S433.7 224 416 224z" />
+                        </svg>
+                    </span>
+                </button>
+                <!-- Answer -->
+                <div class="faq-content  max-h-0 overflow-hidden opacity-0 transition-all duration-300 ease-in-out">
+                    <div class="pt-0 pb-6 pr-[100px] pl-6">
+                        <p class="font-[Figtree] text-[14px] leading-[1.6]">
+                            WPExperts provides WordPress development, WooCommerce solutions, AI integrations, website
+                            maintenance, performance optimization, and enterprise-level digital services.
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <!-- FAQ Item -->
+            <div class="faq-item bg-white border border-[#dfdfdf] rounded-md mb-2">
+                <!-- Question -->
+                <button class="faq-toggle w-full flex items-center justify-between p-6 text-left cursor-pointer">
+                    <div class="font-[Figtree] font-medium text-[18px] leading-[21px] ">
+                        What services does WPExperts offer?
+                    </div>
+                    <span class="p-2 bg-[#e9efff] rounded-md flex items-center justify-center">
+                        <!-- Plus Icon (Closed) -->
+                        <svg class="faq-icon-open w-[15px] h-[15px] fill-current" xmlns="http://www.w3.org/2000/svg"
+                            viewBox="0 0 448 512">
+                            <path
+                                d="M256 80c0-17.67-14.33-32-32-32s-32 14.33-32 32V192H80c-17.67 0-32 14.33-32 32s14.33 32 32 32H192V368c0 17.67 14.33 32 32 32s32-14.33 32-32V256H368c17.67 0 32-14.33 32-32s-14.33-32-32-32H256V80z" />
+                        </svg>
+                        <!-- Minus Icon (Open) -->
+                        <svg class="faq-icon-close hidden w-[15px] h-[15px] fill-current"
+                            xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+                            <path
+                                d="M416 224H32c-17.67 0-32 14.33-32 32s14.33 32 32 32H416c17.67 0 32-14.33 32-32S433.7 224 416 224z" />
+                        </svg>
+                    </span>
+                </button>
+                <!-- Answer -->
+                <div class="faq-content  max-h-0 overflow-hidden opacity-0 transition-all duration-300 ease-in-out">
+                    <div class="pt-0 pb-6 pr-[100px] pl-6">
+                        <p class="font-[Figtree] text-[14px] leading-[1.6]">
+                            WPExperts provides WordPress development, WooCommerce solutions, AI integrations, website
+                            maintenance, performance optimization, and enterprise-level digital services.
+                        </p>
+>>>>>>> Stashed changes
                     </div>
                 </div>
             </div>
@@ -928,11 +1092,15 @@
                 });
             </script>
         </div>
+    </section>
+
+    <section>
         <div
             class="flex justify-center relative after:content-[''] after:absolute after:left-0 after:bottom-0 after:w-full after:h-1/2 after:bg-black after:pointer-events-none after:-z-1">
             <div
                 class="max-w-[935px] z-[1] left-0 right-0 pl-[74px] pr-[60px] border border-[#13285e] rounded-[20px] bg-white flex flex-row items-center justify-center flex-nowrap gap-5 overflow-hidden relative after:content-[''] after:absolute after:right-[-192px] after:top-[-219px] after:w-[708px] after:h-[708px] after:rounded-[708px] after:bg-[#D4E0FF] after:blur-[247.5px] after:-z-10">
 
+<<<<<<< Updated upstream
                 <!-- Left -->
                 <div class="flex-1 p-[10px]">
                     <h4
@@ -957,6 +1125,32 @@
                     <img src="http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/pro-services.svg" alt=""
                         class="w-full h-auto">
                 </div>
+=======
+            <!-- Left -->
+            <div class="flex-1 p-[10px]">
+                <h2
+                    class="font-[Figtree] text-[40px] leading-[1.3] font-medium text-[#13285e] font-coopermdbtmedium mb-5">
+                    Professional Services for You!
+                </h2>
+                <a href="#"
+                    class="px-[44px] leading-[1em] py-[20px] font-figtree font-semibold text-[20px] bg-[#ff9900] shadow-[0px 0px 0 #00000026] border-solid border border-[#00000000] rounded-[4px] hover:border-[#ff9900] flex w-fit gap-[8px] items-center transition-all duration-300 ease-in-out">Explore
+                    Our Services
+                    <span class="flex">
+                        <svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 320 512" aria-hidden="true"
+                            focussable="false" class="w-[15px] h-[15px] fill-[currentColor]">
+                            <path
+                                d="M9.375 329.4c12.51-12.51 32.76-12.49 45.25 0L128 402.8V32c0-17.69 14.31-32 32-32s32 14.31 32 32v370.8l73.38-73.38c12.5-12.5 32.75-12.5 45.25 0s12.5 32.75 0 45.25l-128 128c-12.5 12.5-32.75 12.5-45.25 0l-128-128C-3.125 362.1-3.125 341.9 9.375 329.4z">
+                            </path>
+                        </svg>
+                    </span>
+                </a>
+            </div>
+            <!-- Right -->
+            <div class="flex-1 p-[10px]">
+                <img src="http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/pro-services.svg" alt=""
+                    class="w-full h-auto">
+            </div>
+>>>>>>> Stashed changes
 
             </div>
         </div>
