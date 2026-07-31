@@ -88,8 +88,7 @@
                         design and digital solutions delivered to your area. We serve businesses in every state and city
                         across America. Visit your local market service page to learn more and get tailored solutions
                         for your needs.</p>
-                    <a href="#"
-                        class="font-figtree font-[600] text-[20px] py-[20px] px-[44px] text-black bg-[#ff9900] transition hover:bg-white rounded-[6px]">Get
+                    <a href="#" class="font-figtree font-[600] text-[20px] py-[20px] px-[44px] text-black bg-[#ff9900] transition hover:bg-white rounded-[6px]">Get
                         Started Now!</a>
                 </div>
                 <div class="w-[35%] p-[24px] bg-white rounded-[7px]"></div>
@@ -116,13 +115,11 @@
         </div>
         <div class="max-w-[1240px] mx-auto p-[10px] my-[20px] mt-[50px]">
             <div class="flex gap-y-[50px] flex-wrap justify-between">
-                <a href="#"
-                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center transition hover:text-[#ff9900] w-[25%]">
+                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center transition hover:text-[#ff9900] w-[25%]">
                     <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">AL
                     </div>Alabama
                 </a>
-                <a href="#"
-                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center transition hover:text-[#ff9900] w-[25%]">
+                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center transition hover:text-[#ff9900] w-[25%]">
                     <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">IN
                     </div>Indiana
                 </a>
@@ -136,13 +133,11 @@
                 </a>
 
 
-                <a href="#"
-                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
+                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
                     <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">AK
                     </div>Alaska
                 </a>
-                <a href="#"
-                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
+                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
                     <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">IA
                     </div>Iowa
                 </a>
@@ -157,13 +152,11 @@
 
 
 
-                <a href="#"
-                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
+                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
                     <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">AZ
                     </div>Arizona
                 </a>
-                <a href="#"
-                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
+                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
                     <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">KS
                     </div>Kansas
                 </a>
@@ -181,8 +174,7 @@
                     <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">AR
                     </div>Arkansas
                 </a>
-                <a href="#"
-                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
+                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
                     <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">KY
                     </div>Kentucky
                 </a>
@@ -190,15 +182,13 @@
                     <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">NJ
                     </div>New Jersey
                 </a>
-                <a href="#"
-                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
+                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
                     <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">TX
                     </div>Texas
                 </a>
 
 
-                <a href="#"
-                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
+                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
                     <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">CA
                     </div>California
                 </a>
@@ -206,19 +196,16 @@
                     <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">LA
                     </div>Louisiana
                 </a>
-                <a href="#"
-                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
+                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
                     <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">NM
                     </div>New Mexico
                 </a>
-                <a href="#"
-                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
+                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
                     <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">UT
                     </div>Utah
                 </a>
 
-                <a href="#"
-                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
+                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
                     <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">CO
                     </div>Colorado
                 </a>
@@ -226,8 +213,7 @@
                     <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">ME
                     </div>Maine
                 </a>
-                <a href="#"
-                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
+                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
                     <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">NY
                     </div>New York
                 </a>
@@ -244,20 +230,17 @@
                     <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">MD
                     </div>Maryland
                 </a>
-                <a href="#"
-                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
+                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
                     <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">NC
                     </div>North Carolina
                 </a>
-                <a href="#"
-                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
+                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
                     <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">VA
                     </div>Virginia
                 </a>
 
 
-                <a href="#"
-                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
+                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
                     <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">DE
                     </div>Delaware
                 </a>
@@ -269,8 +252,7 @@
                     <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">ND
                     </div>North Dakota
                 </a>
-                <a href="#"
-                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
+                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
                     <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">WA
                     </div>Washington
                 </a>
@@ -288,13 +270,11 @@
         </div>
         <div class="max-w-[1240px] mx-auto p-[10px] my-[20px] mt-[50px]">
             <div class="flex gap-y-[50px] flex-wrap justify-between">
-                <a href="#"
-                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center transition hover:text-[#ff9900] w-[25%]">
+                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center transition hover:text-[#ff9900] w-[25%]">
                     <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">AL
                     </div>Alabama
                 </a>
-                <a href="#"
-                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center transition hover:text-[#ff9900] w-[25%]">
+                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center transition hover:text-[#ff9900] w-[25%]">
                     <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">IN
                     </div>Indiana
                 </a>
@@ -308,13 +288,11 @@
                 </a>
 
 
-                <a href="#"
-                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
+                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
                     <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">AK
                     </div>Alaska
                 </a>
-                <a href="#"
-                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
+                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
                     <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">IA
                     </div>Iowa
                 </a>
@@ -329,13 +307,11 @@
 
 
 
-                <a href="#"
-                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
+                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
                     <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">AZ
                     </div>Arizona
                 </a>
-                <a href="#"
-                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
+                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
                     <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">KS
                     </div>Kansas
                 </a>
@@ -353,8 +329,7 @@
                     <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">AR
                     </div>Arkansas
                 </a>
-                <a href="#"
-                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
+                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
                     <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">KY
                     </div>Kentucky
                 </a>
@@ -362,15 +337,13 @@
                     <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">NJ
                     </div>New Jersey
                 </a>
-                <a href="#"
-                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
+                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
                     <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">TX
                     </div>Texas
                 </a>
 
 
-                <a href="#"
-                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
+                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
                     <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">CA
                     </div>California
                 </a>
@@ -378,19 +351,16 @@
                     <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">LA
                     </div>Louisiana
                 </a>
-                <a href="#"
-                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
+                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
                     <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">NM
                     </div>New Mexico
                 </a>
-                <a href="#"
-                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
+                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
                     <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">UT
                     </div>Utah
                 </a>
 
-                <a href="#"
-                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
+                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
                     <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">CO
                     </div>Colorado
                 </a>
@@ -398,8 +368,7 @@
                     <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">ME
                     </div>Maine
                 </a>
-                <a href="#"
-                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
+                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
                     <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">NY
                     </div>New York
                 </a>
@@ -416,20 +385,17 @@
                     <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">MD
                     </div>Maryland
                 </a>
-                <a href="#"
-                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
+                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
                     <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">NC
                     </div>North Carolina
                 </a>
-                <a href="#"
-                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
+                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
                     <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">VA
                     </div>Virginia
                 </a>
 
 
-                <a href="#"
-                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
+                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
                     <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">DE
                     </div>Delaware
                 </a>
@@ -441,8 +407,7 @@
                     <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">ND
                     </div>North Dakota
                 </a>
-                <a href="#"
-                    class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
+                <a href="#" class="text-center gap-[10px] font-figtree text-[20px] flex items-center w-[25%] transition hover:text-[#ff9900]">
                     <div class="bg-[#D6E1FF] text-[#13285E] font-figtree font-[700] py-[10px] px-[6px] rounded-[6px]">WA
                     </div>Washington
                 </a>
@@ -454,24 +419,20 @@
 
     <section class="mt-[100px]">
         <div class="max-w-[1090px] mx-auto">
-            <div
-                class="py-[64px] px-[10px] rounded-[10px] bg-[radial-gradient(at_center_center,_#2853c4_0%,_#13285e_100%)] flex flex-col gap-[30px] items-center justify-center">
+            <div class="py-[64px] px-[10px] rounded-[10px] bg-[radial-gradient(at_center_center,_#2853c4_0%,_#13285e_100%)] flex flex-col gap-[30px] items-center justify-center">
                 <h2 class="font-coopermdbtmedium text-[34px] leading-[38px] font-[500] text-white">Ready to Build
                     Something Exceptional?</h2>
                 <p class="text-white text-[24px] leading-[29px] font-[500] font-figtree text-center">Partner with
                     WPExperts to access reliable, scalable digital solutions that give your business a strategic edge
                     through smart, future-ready technology.</p>
                 <div class="flex items-center justify-center">
-                    <a href="#"
-                        class="text-center bg-[#ffa410] flex items-center justify-center text-[16px] py-[14px] px-[62px] text-white font-figtree font-bold gap-[15px] rounded-[4px] hover:bg-[#d98600] transition">Get
-                        Started Now <svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512" aria-hidden="true"
-                            focussable="false" class="w-[15px] text-white">
+                    <a href="#" class="text-center bg-[#ffa410] flex items-center justify-center text-[16px] py-[14px] px-[62px] text-white font-figtree font-bold gap-[15px] rounded-[4px] hover:bg-[#d98600] transition">Get
+                        Started Now <svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512" aria-hidden="true" focussable="false" class="w-[15px] text-white">
                             <path
                                 d="M438.6 278.6l-160 160C272.4 444.9 264.2 448 256 448s-16.38-3.125-22.62-9.375c-12.5-12.5-12.5-32.75 0-45.25L338.8 288H32C14.33 288 .0016 273.7 .0016 256S14.33 224 32 224h306.8l-105.4-105.4c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l160 160C451.1 245.9 451.1 266.1 438.6 278.6z"
                                 class="text-white fill-white"></path>
                         </svg></a>
-                    <a href="#"
-                        class="px-[40px] py-[10px] text-white underline font-figtree hover:text-[#d98600] transition">Talk
+                    <a href="#" class="px-[40px] py-[10px] text-white underline font-figtree hover:text-[#d98600] transition">Talk
                         to an expert</a>
                 </div>
             </div>
@@ -484,87 +445,75 @@
             <h2 class="text-[34px] font-coopermdbtmedium text-center">Our Process</h2>
             <div class="flex flex-wrap justify-between mt-[50px] gap-y-[30px]">
                 <div class="w-[32%] text-center lets-connect relative">
-                    <img src="https://wpexperts.s3.amazonaws.com/wp-content/uploads/2025/08/Frame-1321315834.svg"
-                        class="mx-auto">
+                    <img src="https://wpexperts.s3.amazonaws.com/wp-content/uploads/2025/08/Frame-1321315834.svg" class="mx-auto">
                     <h3 class="text-[24px] font-[700] font-figtree mb-[12px] text-[#13285e]">Let’s Connect</h3>
                     <p class="text-[#13285e] mb-[20px] text-[16px] font-figtree">We’ll start with a friendly chat to
                         fully understand your goals, vision, and specific business needs better.</p>
                 </div>
                 <div class="w-[32%] text-center lets-connect relative">
-                    <img src="https://wpexperts.s3.amazonaws.com/wp-content/uploads/2025/08/Frame-1321315835.svg"
-                        class="mx-auto">
+                    <img src="https://wpexperts.s3.amazonaws.com/wp-content/uploads/2025/08/Frame-1321315835.svg" class="mx-auto">
                     <h3 class="text-[24px] font-[700] font-figtree mb-[12px] text-[#13285e]">Planning</h3>
                     <p class="text-[#13285e] mb-[20px] text-[16px] font-figtree">Through quick calls and emails, we’ll
                         identify the big-picture objectives and outline what success looks like.</p>
                 </div>
                 <div class="w-[32%] text-center">
-                    <img src="https://wpexperts.s3.amazonaws.com/wp-content/uploads/2025/08/Frame-1321315836.svg"
-                        class="mx-auto">
+                    <img src="https://wpexperts.s3.amazonaws.com/wp-content/uploads/2025/08/Frame-1321315836.svg" class="mx-auto">
                     <h3 class="text-[24px] font-[700] font-figtree mb-[12px] text-[#13285e]">Rough Estimates</h3>
                     <p class="text-[#13285e] mb-[20px] text-[16px] font-figtree">We’ll share a rough estimate and a
                         high-level plan so you know what to expect in terms of budget and direction.</p>
                 </div>
                 <div class="w-[32%] text-center lets-connect relative">
-                    <img src="https://wpexperts.s3.amazonaws.com/wp-content/uploads/2025/08/Frame-1321315839.svg"
-                        class="mx-auto">
+                    <img src="https://wpexperts.s3.amazonaws.com/wp-content/uploads/2025/08/Frame-1321315839.svg" class="mx-auto">
                     <h3 class="text-[24px] font-[700] font-figtree mb-[12px] text-[#13285e]">Your Custom Proposal</h3>
                     <p class="text-[#13285e] mb-[20px] text-[16px] font-figtree">Based on everything we’ve discussed,
                         we’ll craft a tailored proposal with clear scope, timelines, and pricing.</p>
                 </div>
                 <div class="w-[32%] text-center lets-connect relative">
-                    <img src="https://wpexperts.s3.amazonaws.com/wp-content/uploads/2025/08/Frame-1321315838.svg"
-                        class="mx-auto">
+                    <img src="https://wpexperts.s3.amazonaws.com/wp-content/uploads/2025/08/Frame-1321315838.svg" class="mx-auto">
                     <h3 class="text-[24px] font-[700] font-figtree mb-[12px] text-[#13285e]">Time to Kick Things Off
                     </h3>
                     <p class="text-[#13285e] mb-[20px] text-[16px] font-figtree">Ready to roll? We’ll handle the
                         paperwork and get you fully onboarded—no stress, no surprises!</p>
                 </div>
                 <div class="w-[32%] text-center">
-                    <img src="https://wpexperts.s3.amazonaws.com/wp-content/uploads/2025/08/Frame-1321315837.svg"
-                        class="mx-auto">
+                    <img src="https://wpexperts.s3.amazonaws.com/wp-content/uploads/2025/08/Frame-1321315837.svg" class="mx-auto">
                     <h3 class="text-[24px] font-[700] font-figtree mb-[12px] text-[#13285e]">Project Begins</h3>
                     <p class="text-[#13285e] mb-[20px] text-[16px] font-figtree">With everything in place, we hit the
                         ground running. Timelines are locked, goals are clear, and the real work begins!</p>
                 </div>
             </div>
-            <a href="#"
-                class="font-figtree text-[20px] px-[44px] py-[20px] font-[600] bg-[#ff9900] rounded-[6px] flex mx-auto w-fit mt-[40px]">Get
+            <a href="#" class="font-figtree text-[20px] px-[44px] py-[20px] font-[600] bg-[#ff9900] rounded-[6px] flex mx-auto w-fit mt-[40px]">Get
                 Started Now!</a>
         </div>
     </section>
 
 
     <section class="max-w-[1240px] mx-auto mt-[44px]  relative">
-        <h3
-            class="text-[34px] leading-[1.3] font-medium text-center mt-[44px] mb-[44px] font-coopermdbtmedium max-w-[785px] mx-auto">
+        <h3 class="text-[34px] leading-[1.3] font-medium text-center mt-[44px] mb-[44px] font-coopermdbtmedium max-w-[785px] mx-auto">
             FAQs About WPExperts Services Across the United States</h3>
         <div class="max-w-[65%] mx-auto mb-[70px]">
             <!-- FAQ Item -->
             <div class="faq-item bg-white border border-[#dfdfdf] rounded-md mb-2">
                 <!-- Question -->
                 <button class="faq-toggle w-full flex items-center justify-between p-6 text-left cursor-pointer">
-                    <h5 class="font-[Figtree] font-medium text-[18px] leading-[21px]">
+                    <h5 class="font-figtree font-medium text-[18px] leading-[21px]">
                         What services does WPExperts offer?
                     </h5>
                     <span class="p-2 bg-[#e9efff] rounded-md flex items-center justify-center">
                         <!-- Plus Icon (Closed) -->
-                        <svg class="faq-icon-open w-[15px] h-[15px] fill-current" xmlns="http://www.w3.org/2000/svg"
-                            viewBox="0 0 448 512">
-                            <path
-                                d="M256 80c0-17.67-14.33-32-32-32s-32 14.33-32 32V192H80c-17.67 0-32 14.33-32 32s14.33 32 32 32H192V368c0 17.67 14.33 32 32 32s32-14.33 32-32V256H368c17.67 0 32-14.33 32-32s-14.33-32-32-32H256V80z" />
+                        <svg class="faq-icon-open w-[15px] h-[15px] fill-current" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+                            <path d="M256 80c0-17.67-14.33-32-32-32s-32 14.33-32 32V192H80c-17.67 0-32 14.33-32 32s14.33 32 32 32H192V368c0 17.67 14.33 32 32 32s32-14.33 32-32V256H368c17.67 0 32-14.33 32-32s-14.33-32-32-32H256V80z" />
                         </svg>
                         <!-- Minus Icon (Open) -->
-                        <svg class="faq-icon-close hidden w-[15px] h-[15px] fill-current"
-                            xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
-                            <path
-                                d="M416 224H32c-17.67 0-32 14.33-32 32s14.33 32 32 32H416c17.67 0 32-14.33 32-32S433.7 224 416 224z" />
+                        <svg class="faq-icon-close hidden w-[15px] h-[15px] fill-current" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+                            <path d="M416 224H32c-17.67 0-32 14.33-32 32s14.33 32 32 32H416c17.67 0 32-14.33 32-32S433.7 224 416 224z" />
                         </svg>
                     </span>
                 </button>
                 <!-- Answer -->
                 <div class="faq-content  max-h-0 overflow-hidden opacity-0 transition-all duration-300 ease-in-out">
                     <div class="pt-0 pb-6 pr-[100px] pl-6">
-                        <p class="font-[Figtree] text-[14px] leading-[1.6]">
+                        <p class="font-figtree text-[14px] leading-[1.6]">
                             WPExperts provides WordPress development, WooCommerce solutions, AI integrations, website
                             maintenance, performance optimization, and enterprise-level digital services.
                         </p>
@@ -575,28 +524,24 @@
             <div class="faq-item bg-white border border-[#dfdfdf] rounded-md mb-2">
                 <!-- Question -->
                 <button class="faq-toggle w-full flex items-center justify-between p-6 text-left cursor-pointer">
-                    <h5 class="font-[Figtree] font-medium text-[18px] leading-[21px]">
+                    <h5 class="font-figtree font-medium text-[18px] leading-[21px]">
                         What services does WPExperts offer?
                     </h5>
                     <span class="p-2 bg-[#e9efff] rounded-md flex items-center justify-center">
                         <!-- Plus Icon (Closed) -->
-                        <svg class="faq-icon-open w-[15px] h-[15px] fill-current" xmlns="http://www.w3.org/2000/svg"
-                            viewBox="0 0 448 512">
-                            <path
-                                d="M256 80c0-17.67-14.33-32-32-32s-32 14.33-32 32V192H80c-17.67 0-32 14.33-32 32s14.33 32 32 32H192V368c0 17.67 14.33 32 32 32s32-14.33 32-32V256H368c17.67 0 32-14.33 32-32s-14.33-32-32-32H256V80z" />
+                        <svg class="faq-icon-open w-[15px] h-[15px] fill-current" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+                            <path d="M256 80c0-17.67-14.33-32-32-32s-32 14.33-32 32V192H80c-17.67 0-32 14.33-32 32s14.33 32 32 32H192V368c0 17.67 14.33 32 32 32s32-14.33 32-32V256H368c17.67 0 32-14.33 32-32s-14.33-32-32-32H256V80z" />
                         </svg>
                         <!-- Minus Icon (Open) -->
-                        <svg class="faq-icon-close hidden w-[15px] h-[15px] fill-current"
-                            xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
-                            <path
-                                d="M416 224H32c-17.67 0-32 14.33-32 32s14.33 32 32 32H416c17.67 0 32-14.33 32-32S433.7 224 416 224z" />
+                        <svg class="faq-icon-close hidden w-[15px] h-[15px] fill-current" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+                            <path d="M416 224H32c-17.67 0-32 14.33-32 32s14.33 32 32 32H416c17.67 0 32-14.33 32-32S433.7 224 416 224z" />
                         </svg>
                     </span>
                 </button>
                 <!-- Answer -->
                 <div class="faq-content  max-h-0 overflow-hidden opacity-0 transition-all duration-300 ease-in-out">
                     <div class="pt-0 pb-6 pr-[100px] pl-6">
-                        <p class="font-[Figtree] text-[14px] leading-[1.6]">
+                        <p class="font-figtree text-[14px] leading-[1.6]">
                             WPExperts provides WordPress development, WooCommerce solutions, AI integrations, website
                             maintenance, performance optimization, and enterprise-level digital services.
                         </p>
@@ -607,28 +552,24 @@
             <div class="faq-item bg-white border border-[#dfdfdf] rounded-md mb-2">
                 <!-- Question -->
                 <button class="faq-toggle w-full flex items-center justify-between p-6 text-left cursor-pointer">
-                    <h5 class="font-[Figtree] font-medium text-[18px] leading-[21px]">
+                    <h5 class="font-figtree font-medium text-[18px] leading-[21px]">
                         What services does WPExperts offer?
                     </h5>
                     <span class="p-2 bg-[#e9efff] rounded-md flex items-center justify-center">
                         <!-- Plus Icon (Closed) -->
-                        <svg class="faq-icon-open w-[15px] h-[15px] fill-current" xmlns="http://www.w3.org/2000/svg"
-                            viewBox="0 0 448 512">
-                            <path
-                                d="M256 80c0-17.67-14.33-32-32-32s-32 14.33-32 32V192H80c-17.67 0-32 14.33-32 32s14.33 32 32 32H192V368c0 17.67 14.33 32 32 32s32-14.33 32-32V256H368c17.67 0 32-14.33 32-32s-14.33-32-32-32H256V80z" />
+                        <svg class="faq-icon-open w-[15px] h-[15px] fill-current" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+                            <path d="M256 80c0-17.67-14.33-32-32-32s-32 14.33-32 32V192H80c-17.67 0-32 14.33-32 32s14.33 32 32 32H192V368c0 17.67 14.33 32 32 32s32-14.33 32-32V256H368c17.67 0 32-14.33 32-32s-14.33-32-32-32H256V80z" />
                         </svg>
                         <!-- Minus Icon (Open) -->
-                        <svg class="faq-icon-close hidden w-[15px] h-[15px] fill-current"
-                            xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
-                            <path
-                                d="M416 224H32c-17.67 0-32 14.33-32 32s14.33 32 32 32H416c17.67 0 32-14.33 32-32S433.7 224 416 224z" />
+                        <svg class="faq-icon-close hidden w-[15px] h-[15px] fill-current" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+                            <path d="M416 224H32c-17.67 0-32 14.33-32 32s14.33 32 32 32H416c17.67 0 32-14.33 32-32S433.7 224 416 224z" />
                         </svg>
                     </span>
                 </button>
                 <!-- Answer -->
                 <div class="faq-content  max-h-0 overflow-hidden opacity-0 transition-all duration-300 ease-in-out">
                     <div class="pt-0 pb-6 pr-[100px] pl-6">
-                        <p class="font-[Figtree] text-[14px] leading-[1.6]">
+                        <p class="font-figtree text-[14px] leading-[1.6]">
                             WPExperts provides WordPress development, WooCommerce solutions, AI integrations, website
                             maintenance, performance optimization, and enterprise-level digital services.
                         </p>
@@ -639,28 +580,24 @@
             <div class="faq-item bg-white border border-[#dfdfdf] rounded-md mb-2">
                 <!-- Question -->
                 <button class="faq-toggle w-full flex items-center justify-between p-6 text-left cursor-pointer">
-                    <h5 class="font-[Figtree] font-medium text-[18px] leading-[21px]">
+                    <h5 class="font-figtree font-medium text-[18px] leading-[21px]">
                         What services does WPExperts offer?
                     </h5>
                     <span class="p-2 bg-[#e9efff] rounded-md flex items-center justify-center">
                         <!-- Plus Icon (Closed) -->
-                        <svg class="faq-icon-open w-[15px] h-[15px] fill-current" xmlns="http://www.w3.org/2000/svg"
-                            viewBox="0 0 448 512">
-                            <path
-                                d="M256 80c0-17.67-14.33-32-32-32s-32 14.33-32 32V192H80c-17.67 0-32 14.33-32 32s14.33 32 32 32H192V368c0 17.67 14.33 32 32 32s32-14.33 32-32V256H368c17.67 0 32-14.33 32-32s-14.33-32-32-32H256V80z" />
+                        <svg class="faq-icon-open w-[15px] h-[15px] fill-current" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+                            <path d="M256 80c0-17.67-14.33-32-32-32s-32 14.33-32 32V192H80c-17.67 0-32 14.33-32 32s14.33 32 32 32H192V368c0 17.67 14.33 32 32 32s32-14.33 32-32V256H368c17.67 0 32-14.33 32-32s-14.33-32-32-32H256V80z" />
                         </svg>
                         <!-- Minus Icon (Open) -->
-                        <svg class="faq-icon-close hidden w-[15px] h-[15px] fill-current"
-                            xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
-                            <path
-                                d="M416 224H32c-17.67 0-32 14.33-32 32s14.33 32 32 32H416c17.67 0 32-14.33 32-32S433.7 224 416 224z" />
+                        <svg class="faq-icon-close hidden w-[15px] h-[15px] fill-current" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+                            <path d="M416 224H32c-17.67 0-32 14.33-32 32s14.33 32 32 32H416c17.67 0 32-14.33 32-32S433.7 224 416 224z" />
                         </svg>
                     </span>
                 </button>
                 <!-- Answer -->
                 <div class="faq-content  max-h-0 overflow-hidden opacity-0 transition-all duration-300 ease-in-out">
                     <div class="pt-0 pb-6 pr-[100px] pl-6">
-                        <p class="font-[Figtree] text-[14px] leading-[1.6]">
+                        <p class="font-figtree text-[14px] leading-[1.6]">
                             WPExperts provides WordPress development, WooCommerce solutions, AI integrations, website
                             maintenance, performance optimization, and enterprise-level digital services.
                         </p>
@@ -671,28 +608,24 @@
             <div class="faq-item bg-white border border-[#dfdfdf] rounded-md mb-2">
                 <!-- Question -->
                 <button class="faq-toggle w-full flex items-center justify-between p-6 text-left cursor-pointer">
-                    <h5 class="font-[Figtree] font-medium text-[18px] leading-[21px] ">
+                    <h5 class="font-figtree font-medium text-[18px] leading-[21px] ">
                         What services does WPExperts offer?
                     </h5>
                     <span class="p-2 bg-[#e9efff] rounded-md flex items-center justify-center">
                         <!-- Plus Icon (Closed) -->
-                        <svg class="faq-icon-open w-[15px] h-[15px] fill-current" xmlns="http://www.w3.org/2000/svg"
-                            viewBox="0 0 448 512">
-                            <path
-                                d="M256 80c0-17.67-14.33-32-32-32s-32 14.33-32 32V192H80c-17.67 0-32 14.33-32 32s14.33 32 32 32H192V368c0 17.67 14.33 32 32 32s32-14.33 32-32V256H368c17.67 0 32-14.33 32-32s-14.33-32-32-32H256V80z" />
+                        <svg class="faq-icon-open w-[15px] h-[15px] fill-current" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+                            <path d="M256 80c0-17.67-14.33-32-32-32s-32 14.33-32 32V192H80c-17.67 0-32 14.33-32 32s14.33 32 32 32H192V368c0 17.67 14.33 32 32 32s32-14.33 32-32V256H368c17.67 0 32-14.33 32-32s-14.33-32-32-32H256V80z" />
                         </svg>
                         <!-- Minus Icon (Open) -->
-                        <svg class="faq-icon-close hidden w-[15px] h-[15px] fill-current"
-                            xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
-                            <path
-                                d="M416 224H32c-17.67 0-32 14.33-32 32s14.33 32 32 32H416c17.67 0 32-14.33 32-32S433.7 224 416 224z" />
+                        <svg class="faq-icon-close hidden w-[15px] h-[15px] fill-current" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512">
+                            <path d="M416 224H32c-17.67 0-32 14.33-32 32s14.33 32 32 32H416c17.67 0 32-14.33 32-32S433.7 224 416 224z" />
                         </svg>
                     </span>
                 </button>
                 <!-- Answer -->
                 <div class="faq-content  max-h-0 overflow-hidden opacity-0 transition-all duration-300 ease-in-out">
                     <div class="pt-0 pb-6 pr-[100px] pl-6">
-                        <p class="font-[Figtree] text-[14px] leading-[1.6]">
+                        <p class="font-figtree text-[14px] leading-[1.6]">
                             WPExperts provides WordPress development, WooCommerce solutions, AI integrations, website
                             maintenance, performance optimization, and enterprise-level digital services.
                         </p>
@@ -715,8 +648,7 @@
             </div>
             <!-- Right -->
             <div class="flex-1 p-[10px]">
-                <img src="https://wpexperts.s3.amazonaws.com/wp-content/uploads/2021/01/pro-services.svg" alt=""
-                    class="w-full h-auto">
+                <img src="https://wpexperts.s3.amazonaws.com/wp-content/uploads/2021/01/pro-services.svg" alt="" class="w-full h-auto">
             </div>
 
         </div>

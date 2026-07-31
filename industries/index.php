@@ -109,378 +109,16 @@
         </div>
     </section>
 
-    <section class="pt-11 px-2.5 pb-2.5">
-        <h2 class="text-[34px] leading-[1.3] font-medium ] text-center mb-[44px] font-coopermdbtmedium">
-            Discover Our Professional WPExperts Services
-        </h2>
-        <div class="grid grid-cols-3 gap-6 max-w-[1240px] mx-auto">
 
-            <!-- Repeatable Card -->
-            <div class="p-6 bg-white rounded-md border-2 border-[#F4F4F4] transition-all duration-300 hover:border-[#A1BBFF] hover:shadow-[0_4px_22.6px_0_#FFF9F0]">
-                <a href="#" class="block">
 
-                    <img src="http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/woocommerce_services.webp" alt="" class="mb-6">
-
-                    <h3 class="mb-4 font-medium text-2xl leading-[120%] text-[#13285e] font-figtree">
-                        WooCommerce Services
-                    </h3>
-
-                    <p class="mb-[25px] text-base font-figtree leading-[120%] text-gray-700">
-                        Top-notch WooCommerce development services to build suc...
-                    </p>
-
-                    <span class="inline-flex items-center gap-2 text-base font-figtree font-medium text-[#13285e]">
-                        Get Started Now!
-
-                        <svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17" fill="none" class="w-[17px] h-[17px]">
-                            <path d="M13.8334 8.49988H3.16675" stroke="#13285E" stroke-linecap="round" stroke-linejoin="round" />
-                            <path d="M10.5002 11.8333L13.8335 8.49996L10.5002 5.16663" stroke="#13285E" stroke-linecap="round" stroke-linejoin="round" />
-                        </svg>
-                    </span>
-
-                </a>
-            </div>
-            <!-- Repeatable Card -->
-            <div class="p-6 bg-white rounded-md border-2 border-[#F4F4F4] transition-all duration-300 hover:border-[#A1BBFF] hover:shadow-[0_4px_22.6px_0_#FFF9F0]">
-                <a href="#" class="block">
-
-                    <img src="http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/woocommerce_services.webp" alt="" class="mb-6">
-
-                    <h3 class="mb-4 font-medium text-2xl leading-[120%] text-[#13285e] font-figtree">
-                        WooCommerce Services
-                    </h3>
-
-                    <p class="mb-[25px] text-base font-figtree leading-[120%] text-gray-700">
-                        Top-notch WooCommerce development services to build suc...
-                    </p>
-
-                    <span class="inline-flex items-center gap-2 text-base font-figtree font-medium text-[#13285e]">
-                        Get Started Now!
-
-                        <svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17" fill="none" class="w-[17px] h-[17px]">
-                            <path d="M13.8334 8.49988H3.16675" stroke="#13285E" stroke-linecap="round" stroke-linejoin="round" />
-                            <path d="M10.5002 11.8333L13.8335 8.49996L10.5002 5.16663" stroke="#13285E" stroke-linecap="round" stroke-linejoin="round" />
-                        </svg>
-                    </span>
-
-                </a>
-            </div>
-            <!-- Repeatable Card -->
-            <div class="p-6 bg-white rounded-md border-2 border-[#F4F4F4] transition-all duration-300 hover:border-[#A1BBFF] hover:shadow-[0_4px_22.6px_0_#FFF9F0]">
-                <a href="#" class="block">
-
-                    <img src="http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/woocommerce_services.webp" alt="" class="mb-6">
-
-                    <h3 class="mb-4 font-medium text-2xl leading-[120%] text-[#13285e] font-figtree">
-                        WooCommerce Services
-                    </h3>
-
-                    <p class="mb-[25px] text-base font-figtree leading-[120%] text-gray-700">
-                        Top-notch WooCommerce development services to build suc...
-                    </p>
-
-                    <span class="inline-flex items-center gap-2 text-base font-figtree font-medium text-[#13285e]">
-                        Get Started Now!
-
-                        <svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17" fill="none" class="w-[17px] h-[17px]">
-                            <path d="M13.8334 8.49988H3.16675" stroke="#13285E" stroke-linecap="round" stroke-linejoin="round" />
-                            <path d="M10.5002 11.8333L13.8335 8.49996L10.5002 5.16663" stroke="#13285E" stroke-linecap="round" stroke-linejoin="round" />
-                        </svg>
-                    </span>
-
-                </a>
-            </div>
-            <!-- Repeatable Card -->
-            <div class="p-6 bg-white rounded-md border-2 border-[#F4F4F4] transition-all duration-300 hover:border-[#A1BBFF] hover:shadow-[0_4px_22.6px_0_#FFF9F0]">
-                <a href="#" class="block">
-
-                    <img src="http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/woocommerce_services.webp" alt="" class="mb-6">
-
-                    <h3 class="mb-4 font-medium text-2xl leading-[120%] text-[#13285e] font-figtree">
-                        WooCommerce Services
-                    </h3>
-
-                    <p class="mb-[25px] text-base font-figtree leading-[120%] text-gray-700">
-                        Top-notch WooCommerce development services to build suc...
-                    </p>
-
-                    <span class="inline-flex items-center gap-2 text-base font-figtree font-medium text-[#13285e]">
-                        Get Started Now!
-
-                        <svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17" fill="none" class="w-[17px] h-[17px]">
-                            <path d="M13.8334 8.49988H3.16675" stroke="#13285E" stroke-linecap="round" stroke-linejoin="round" />
-                            <path d="M10.5002 11.8333L13.8335 8.49996L10.5002 5.16663" stroke="#13285E" stroke-linecap="round" stroke-linejoin="round" />
-                        </svg>
-                    </span>
-
-                </a>
-            </div>
-            <!-- Repeatable Card -->
-            <div class="p-6 bg-white rounded-md border-2 border-[#F4F4F4] transition-all duration-300 hover:border-[#A1BBFF] hover:shadow-[0_4px_22.6px_0_#FFF9F0]">
-                <a href="#" class="block">
-
-                    <img src="http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/woocommerce_services.webp" alt="" class="mb-6">
-
-                    <h3 class="mb-4 font-medium text-2xl leading-[120%] text-[#13285e] font-figtree">
-                        WooCommerce Services
-                    </h3>
-
-                    <p class="mb-[25px] text-base font-figtree leading-[120%] text-gray-700">
-                        Top-notch WooCommerce development services to build suc...
-                    </p>
-
-                    <span class="inline-flex items-center gap-2 text-base font-figtree font-medium text-[#13285e]">
-                        Get Started Now!
-
-                        <svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17" fill="none" class="w-[17px] h-[17px]">
-                            <path d="M13.8334 8.49988H3.16675" stroke="#13285E" stroke-linecap="round" stroke-linejoin="round" />
-                            <path d="M10.5002 11.8333L13.8335 8.49996L10.5002 5.16663" stroke="#13285E" stroke-linecap="round" stroke-linejoin="round" />
-                        </svg>
-                    </span>
-
-                </a>
-            </div>
-            <!-- Repeatable Card -->
-            <div class="p-6 bg-white rounded-md border-2 border-[#F4F4F4] transition-all duration-300 hover:border-[#A1BBFF] hover:shadow-[0_4px_22.6px_0_#FFF9F0]">
-                <a href="#" class="block">
-
-                    <img src="http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/woocommerce_services.webp" alt="" class="mb-6">
-
-                    <h3 class="mb-4 font-medium text-2xl leading-[120%] text-[#13285e] font-figtree">
-                        WooCommerce Services
-                    </h3>
-
-                    <p class="mb-[25px] text-base font-figtree leading-[120%] text-gray-700">
-                        Top-notch WooCommerce development services to build suc...
-                    </p>
-
-                    <span class="inline-flex items-center gap-2 text-base font-figtree font-medium text-[#13285e]">
-                        Get Started Now!
-
-                        <svg xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17" fill="none" class="w-[17px] h-[17px]">
-                            <path d="M13.8334 8.49988H3.16675" stroke="#13285E" stroke-linecap="round" stroke-linejoin="round" />
-                            <path d="M10.5002 11.8333L13.8335 8.49996L10.5002 5.16663" stroke="#13285E" stroke-linecap="round" stroke-linejoin="round" />
-                        </svg>
-                    </span>
-
-                </a>
-            </div>
-        </div>
-    </section>
-
-    <section class="max-w-[1240px] mx-auto my-[44px] ">
-
-        <h2 class="text-[34px] leading-[1.3] font-medium text-[#13285e] text-center mt-[44px] mb-[24px] font-coopermdbtmedium">
-            Browse All WPExperts Services
-        </h2>
-
-        <p class="text-[18px] font-figtree text-center mb-10">
-            Find the perfect solution from our WPExperts Digital Services.
-        </p>
-
-        <div class="grid grid-cols-[280px_1fr] gap-10">
-
-            <!-- Left Sidebar -->
-            <div>
-
-                <h3 class="mt-6 mb-4 text-[26px] font-figtree font-medium ">
-                    Service Categories
-                </h3>
-
-                <ul class="p-0 m-0 list-none">
-
-                    <li data-tab="wordpress"
-                        class="tab-item font-figtree py-3 px-[15px] cursor-pointer border-l-[3px] border-l-transparent transition-all duration-300 mb-[5px] rounded text-base bg-[#EEF4FF] border-l-[#A1BBFF] text-[#13285e] font-semibold">
-                        WordPress Development
-                    </li>
-
-                    <li data-tab="woocommerce" class="tab-item font-figtree py-3 px-[15px] hover:bg-[#f5f5f5] cursor-pointer border-l-[3px] border-l-transparent transition-all duration-300 mb-[5px] rounded text-base">
-                        WooCommerce
-                    </li>
-
-                    <li data-tab="maintenance" class="tab-item font-figtree py-3 px-[15px] hover:bg-[#f5f5f5] cursor-pointer border-l-[3px] border-l-transparent transition-all duration-300 mb-[5px] rounded text-base ">
-                        Maintenance
-                    </li>
-
-                </ul>
-
-            </div>
-
-            <!-- Right Content -->
-            <div class="flex-1">
-
-                <!-- WordPress -->
-                <div data-content="wordpress" class="tab-content grid grid-cols-2 gap-5">
-
-                    <div class="border border-[#F4F4F4] p-[15px] rounded-lg bg-white transition-all duration-200 flex flex-col justify-center hover:border-[#A1BBFF]">
-                        <a href="#" class="flex items-center gap-4 text-[14px] text-[#13285e]">
-                            <img src="http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/Game-Development.svg" alt="" class="w-12 h-12">
-                            <h3 class="text-[16px] font-figtree font-semibold">WordPress Website Development</h3>
-                        </a>
-                    </div>
-
-                    <div class="border border-[#F4F4F4] p-[15px] rounded-lg bg-white transition-all duration-200 flex flex-col justify-center hover:border-[#A1BBFF]">
-                        <a href="#" class="flex items-center gap-4 text-[14px] text-[#13285e]">
-                            <img src="http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/Game-Development.svg" alt="" class="w-12 h-12">
-                            <h3 class="text-[16px] font-figtree font-semibold">WordPress Speed Optimization</h3>
-                        </a>
-                    </div>
-
-                </div>
-
-                <!-- WooCommerce -->
-                <div data-content="woocommerce" class="tab-content hidden grid grid-cols-2 gap-5">
-
-                    <div class="border border-[#F4F4F4] p-[15px] rounded-lg bg-white transition-all duration-200 flex flex-col justify-center hover:border-[#A1BBFF]">
-                        <a href="#" class="flex items-center gap-4 text-[14px] text-[#13285e]">
-                            <img src="http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/Game-Development.svg" alt="" class="w-12 h-12">
-                            <h3 class="text-[16px] font-figtree font-semibold">WooCommerce Development</h3>
-                        </a>
-                    </div>
-
-                </div>
-
-                <!-- Maintenance -->
-                <div data-content="maintenance" class="tab-content hidden grid grid-cols-2 gap-5">
-
-                    <div class="border border-[#F4F4F4] p-[15px] rounded-lg bg-white transition-all duration-200 flex flex-col justify-center hover:border-[#A1BBFF]">
-                        <a href="#" class="flex items-center gap-4 text-[14px] text-[#13285e]">
-                            <img src="http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/Game-Development.svg" alt="" class="w-12 h-12">
-                            <h3 class="text-[16px] font-figtree font-semibold">Website Maintenance</h3>
-                        </a>
-                    </div>
-
-                </div>
-
-            </div>
-
-        </div>
-        <!-- tabs section script  -->
-        <script>
-            const tabs = document.querySelectorAll('.tab-item');
-            const contents = document.querySelectorAll('.tab-content');
-
-            tabs.forEach(tab => {
-                tab.addEventListener('click', () => {
-                    const target = tab.dataset.tab;
-
-                    // Remove active state
-                    tabs.forEach(item => {
-                        item.classList.remove(
-                            'bg-[#EEF4FF]',
-                            'border-l-[#A1BBFF]',
-                            'text-[#13285e]',
-                            'font-semibold'
-                        );
-                        item.classList.add('hover:bg-[#f5f5f5]');
-                    });
-
-                    // Hide all content
-                    contents.forEach(content => {
-                        content.classList.add('hidden');
-                    });
-
-                    // Activate clicked tab
-                    tab.classList.add(
-                        'bg-[#EEF4FF]',
-                        'border-l-[#A1BBFF]',
-                        'text-[#13285e]',
-                        'font-semibold'
-                    );
-                    tab.classList.remove('hover:bg-[#f5f5f5]');
-                    // Show matching content
-                    document
-                        .querySelector(`[data-content="${target}"]`)
-                        .classList.remove('hidden');
-                });
-            });
-        </script>
-    </section>
-
-    <section class="grid grid-cols-1 lg:grid-cols-2">
-
-        <!-- Left -->
-        <div class="bg-[url('http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/services-bg-1.svg')] bg-cover bg-center min-h-[600px] lg:min-h-0">
-        </div>
-
-        <!-- Right -->
-        <div class="shadow-[0px_0px_0px_#00000070] bg-[#fffaf3] py-11  pl-24 pr-6 flex flex-col gap-[20px]">
-            <!-- Content -->
-            <h3 class="text-[#13285e] font-medium text-[40px] leading-[50px] mb-6 font-coopermdbtmedium">
-                Why Choose WPExperts Digital Services
-            </h3>
-
-            <p class="text-[#13285e] font-figtree font-medium text-[22px] leading-[33px] mb-[50px]">
-                We’re a trusted enterprise-level digital solutions provider for WordPress & WooCommerce services, AI
-                development, and scalable solutions.
-            </p>
-
-            <!-- Feature Item (Repeatable) -->
-            <div class="flex items-start">
-
-                <img src="http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/star-1.svg" alt="" class="w-12 h-12 shrink-0">
-
-                <div class="pl-6">
-
-                    <h4 class="text-[#13285e] font-semibold text-2xl leading-9 mb-[10px] font-figtree font-semibold">
-                        13+ Years of Web Development Experience
-                    </h4>
-
-                    <p class="text-[#13285e] font-figtree font-medium text-[18px] leading-[31px] mb-6">
-                        With professional development expertise across all platforms, we have helped 4000+ clients
-                        transform their digital presence and bring innovative projects to life.
-                    </p>
-
-                </div>
-
-            </div>
-            <div class="flex items-start">
-
-                <img src="http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/star-1.svg" alt="" class="w-12 h-12 shrink-0">
-
-                <div class="pl-6">
-
-                    <h4 class="text-[#13285e] font-semibold text-2xl leading-9 mb-[10px] font-figtree font-semibold">
-                        Enterprise-Grade Solutions
-                    </h4>
-
-                    <p class="text-[#13285e] font-figtree font-medium text-[18px] leading-[31px] mb-6">
-                        Trusted by top brands worldwide, we develop strong digital solutions that drive high traffic and
-                        handle complex business needs.
-                    </p>
-
-                </div>
-
-            </div>
-            <div class="flex items-start">
-
-                <img src="http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/star-1.svg" alt="" class="w-12 h-12 shrink-0">
-
-                <div class="pl-6">
-
-                    <h4 class="text-[#13285e] font-semibold text-2xl leading-9 mb-[10px] font-figtree font-semibold">
-                        Dedicated Partnership & Continued Success
-                    </h4>
-
-                    <p class="text-[#13285e] font-figtree font-medium text-[18px] leading-[31px] mb-6">
-                        Our team of digital experts becomes an extension of yours. We provide dedicated partnership and
-                        innovative solutions that align with your business goals and digital transformation needs.
-                    </p>
-
-                </div>
-
-            </div>
-        </div>
-
-    </section>
     <section class="max-w-[1240px] mx-auto">
         <h3 class="text-[34px] leading-[1.3] font-medium text-center mt-[44px] mb-[44px] font-coopermdbtmedium">
             WPExperts Digital Services Driving Success Across Industries</h3>
         <div class="services-main grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5 max-h-[500px] overflow-hidden transition-all duration-300">
 
             <!-- Item -->
-            <div class="service-card p-6">
-                <img src="http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/ai.svg" alt="" class="w-12 h-12 mb-5">
+            <div class="service-card transition-all duration-300 hover:bg-[#e9efff] hover:rounded-[6px] cursor-pointer p-6">
+                <img src="https://wpexperts.s3.amazonaws.com/wp-content/uploads/2025/08/Frame-1321315753.svg" alt="" class="w-12 h-12 mb-5">
                 <h4 class="font-figtree text-2xl leading-[1.3] font-medium mb-[10px]">
                     Artificial Intelligence (AI)
                 </h4>
@@ -490,8 +128,8 @@
                 </p>
             </div>
             <!-- Item -->
-            <div class="service-card p-6">
-                <img src="http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/ai.svg" alt="" class="w-12 h-12 mb-5">
+            <div class="service-card transition-all duration-300 hover:bg-[#e9efff] hover:rounded-[6px] cursor-pointer p-6">
+                <img src="https://wpexperts.s3.amazonaws.com/wp-content/uploads/2025/08/Frame-1321315753.svg" alt="" class="w-12 h-12 mb-5">
                 <h4 class="font-figtree text-2xl leading-[1.3] font-medium mb-[10px]">
                     Information Technology (IT)
                 </h4>
@@ -501,8 +139,8 @@
                 </p>
             </div>
             <!-- Item -->
-            <div class="service-card p-6">
-                <img src="http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/ai.svg" alt="" class="w-12 h-12 mb-5">
+            <div class="service-card transition-all duration-300 hover:bg-[#e9efff] hover:rounded-[6px] cursor-pointer p-6">
+                <img src="https://wpexperts.s3.amazonaws.com/wp-content/uploads/2025/08/Frame-1321315753.svg" alt="" class="w-12 h-12 mb-5">
                 <h4 class="font-figtree text-2xl leading-[1.3] font-medium mb-[10px]">
                     E-Commerce
                 </h4>
@@ -512,8 +150,8 @@
                 </p>
             </div>
             <!-- Item -->
-            <div class="service-card p-6">
-                <img src="http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/ai.svg" alt="" class="w-12 h-12 mb-5">
+            <div class="service-card transition-all duration-300 hover:bg-[#e9efff] hover:rounded-[6px] cursor-pointer p-6">
+                <img src="https://wpexperts.s3.amazonaws.com/wp-content/uploads/2025/08/Frame-1321315753.svg" alt="" class="w-12 h-12 mb-5">
                 <h4 class="font-figtree text-2xl leading-[1.3] font-medium mb-[10px]">
                     Finance
                 </h4>
@@ -523,8 +161,8 @@
                 </p>
             </div>
             <!-- Item -->
-            <div class="service-card p-6">
-                <img src="http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/ai.svg" alt="" class="w-12 h-12 mb-5">
+            <div class="service-card transition-all duration-300 hover:bg-[#e9efff] hover:rounded-[6px] cursor-pointer p-6">
+                <img src="https://wpexperts.s3.amazonaws.com/wp-content/uploads/2025/08/Frame-1321315753.svg" alt="" class="w-12 h-12 mb-5">
                 <h4 class="font-figtree text-2xl leading-[1.3] font-medium mb-[10px]">
                     Fashion
                 </h4>
@@ -534,8 +172,8 @@
                 </p>
             </div>
             <!-- Item -->
-            <div class="service-card p-6">
-                <img src="http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/ai.svg" alt="" class="w-12 h-12 mb-5">
+            <div class="service-card transition-all duration-300 hover:bg-[#e9efff] hover:rounded-[6px] cursor-pointer p-6">
+                <img src="https://wpexperts.s3.amazonaws.com/wp-content/uploads/2025/08/Frame-1321315753.svg" alt="" class="w-12 h-12 mb-5">
                 <h4 class="font-figtree text-2xl leading-[1.3] font-medium mb-[10px]">
                     Health
                 </h4>
@@ -545,8 +183,8 @@
                 </p>
             </div>
             <!-- Item -->
-            <div class="service-card p-6">
-                <img src="http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/ai.svg" alt="" class="w-12 h-12 mb-5">
+            <div class="service-card transition-all duration-300 hover:bg-[#e9efff] hover:rounded-[6px] cursor-pointer p-6">
+                <img src="https://wpexperts.s3.amazonaws.com/wp-content/uploads/2025/08/Frame-1321315753.svg" alt="" class="w-12 h-12 mb-5">
                 <h4 class="font-figtree text-2xl leading-[1.3] font-medium mb-[10px]">
                     Beauty
                 </h4>
@@ -556,8 +194,8 @@
                 </p>
             </div>
             <!-- Item -->
-            <div class="service-card p-6">
-                <img src="http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/ai.svg" alt="" class="w-12 h-12 mb-5">
+            <div class="service-card transition-all duration-300 hover:bg-[#e9efff] hover:rounded-[6px] cursor-pointer p-6">
+                <img src="https://wpexperts.s3.amazonaws.com/wp-content/uploads/2025/08/Frame-1321315753.svg" alt="" class="w-12 h-12 mb-5">
                 <h4 class="font-figtree text-2xl leading-[1.3] font-medium mb-[10px]">
                     Photography
                 </h4>
@@ -567,8 +205,8 @@
                 </p>
             </div>
             <!-- Item -->
-            <div class="service-card p-6">
-                <img src="http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/ai.svg" alt="" class="w-12 h-12 mb-5">
+            <div class="service-card transition-all duration-300 hover:bg-[#e9efff] hover:rounded-[6px] cursor-pointer p-6">
+                <img src="https://wpexperts.s3.amazonaws.com/wp-content/uploads/2025/08/Frame-1321315753.svg" alt="" class="w-12 h-12 mb-5">
                 <h4 class="font-figtree text-2xl leading-[1.3] font-medium mb-[10px]">
                     Non Profit
                 </h4>
@@ -578,8 +216,8 @@
                 </p>
             </div>
             <!-- Item -->
-            <div class="service-card p-6">
-                <img src="http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/ai.svg" alt="" class="w-12 h-12 mb-5">
+            <div class="service-card transition-all duration-300 hover:bg-[#e9efff] hover:rounded-[6px] cursor-pointer p-6">
+                <img src="https://wpexperts.s3.amazonaws.com/wp-content/uploads/2025/08/Frame-1321315753.svg" alt="" class="w-12 h-12 mb-5">
                 <h4 class="font-figtree text-2xl leading-[1.3] font-medium mb-[10px]">
                     Real State
                 </h4>
@@ -589,8 +227,8 @@
                 </p>
             </div>
             <!-- Item -->
-            <div class="service-card p-6">
-                <img src="http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/ai.svg" alt="" class="w-12 h-12 mb-5">
+            <div class="service-card transition-all duration-300 hover:bg-[#e9efff] hover:rounded-[6px] cursor-pointer p-6">
+                <img src="https://wpexperts.s3.amazonaws.com/wp-content/uploads/2025/08/Frame-1321315753.svg" alt="" class="w-12 h-12 mb-5">
                 <h4 class="font-figtree text-2xl leading-[1.3] font-medium mb-[10px]">
                     Law Firm
                 </h4>
@@ -600,8 +238,8 @@
                 </p>
             </div>
             <!-- Item -->
-            <div class="service-card p-6">
-                <img src="http://wpexperts-building-blocks.local/wp-content/uploads/2026/07/ai.svg" alt="" class="w-12 h-12 mb-5">
+            <div class="service-card transition-all duration-300  hover:bg-[#e9efff] hover:rounded-[6px] cursor-pointer p-6">
+                <img src="https://wpexperts.s3.amazonaws.com/wp-content/uploads/2025/08/Frame-1321315753.svg" alt="" class="w-12 h-12 mb-5">
                 <h4 class="font-figtree text-2xl leading-[1.3] font-medium mb-[10px]">
                     Business
                 </h4>
@@ -611,51 +249,41 @@
                 </p>
             </div>
         </div>
-        <!-- Button Row -->
-        <div class="max-w-[900px] mx-auto mt-8">
-            <button class="services-toggle w-full p-5 bg-transparent border border-[#13285e] text-[#13285e] rounded-md font-medium transition-all duration-300 cursor-pointer flex items-center justify-center gap-2">
-                <span class="services-toggle-text">View More</span>
 
-                <span class="">
-                    <svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 384 512" class="w-4 h-4 fill-current transition-transform duration-300 rotate-180" aria-hidden="true" focusable="false">
-                        <path d="M192 128c8.188 0 16.38 3.125 22.62 9.375l160 160c12.5 12.5 12.5 32.75 0 45.25s-32.75 12.5-45.25 0L192 205.2 54.63 342.6c-12.5 12.5-32.75 12.5-45.25 0s-12.5-32.75 0-45.25l160-160C175.6 131.1 183.8 128 192 128z">
+    </section>
+    <section class="mt-[44px] flex flex-col bg-[radial-gradient(at_center_center,_#2853c4_0%,_#13285e_100%)] gap-y-[30px] gap-x-[20px] max-w-[1092px] mx-auto rounded-[10px] shadow-[0px_0px_#00000070] pt-[64px] pb-[64px] px-[10px]">
+        <h2 class="font-coopermdbtmedium font-medium text-4xl text-center text-white">
+            Ready to Build Something Exceptional?
+        </h2>
+        <p class="font-metropolis font-medium text-2xl text-center text-white">
+            Partner with WPExperts to access reliable, scalable digital solutions that give your business a strategic edge through smart, future-ready technology.
+        </p>
+        <div class="flex gap-4 justify-center">
+            <a href="#"
+                class="px-6 py-3 leading-[1em] font-figtree font-semibold text-base bg-[#ff9900] shadow-[0px 0px 0 #00000026] border-solid border border-[#00000000] rounded-[4px] hover:border-[#ff9900] hover:text-[#fff] hover:bg-transparent flex w-fit gap-[8px] items-center transition-all duration-300 ease-in-out">Explore
+                Our Services
+                <span class="flex">
+                    <svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512" aria-hidden="true" focussable="false" class="w-[15px] h-[15px] fill-[currentColor]">
+                        <path
+                            d="M438.6 278.6l-160 160C272.4 444.9 264.2 448 256 448s-16.38-3.125-22.62-9.375c-12.5-12.5-12.5-32.75 0-45.25L338.8 288H32C14.33 288 .0016 273.7 .0016 256S14.33 224 32 224h306.8l-105.4-105.4c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l160 160C451.1 245.9 451.1 266.1 438.6 278.6z">
                         </path>
                     </svg>
                 </span>
-            </button>
+            </a>
+            <a href="#"
+                class="px-6 py-3 leading-[1em] font-figtree font-semibold text-base bg-transparent text-white shadow-[0px_0px_0_#00000026] border border-[#ff9900] rounded-[4px] hover:bg-[#ff9900] hover:text-[#fff] flex w-fit gap-[8px] items-center transition-all duration-300 ease-in-out">
+                Talk to an expert
+                <span class="flex">
+                    <svg xmlns="https://www.w3.org/2000/svg" viewBox="0 0 448 512" aria-hidden="true" focussable="false" class="w-[15px] h-[15px] fill-[currentColor]">
+                        <path
+                            d="M438.6 278.6l-160 160C272.4 444.9 264.2 448 256 448s-16.38-3.125-22.62-9.375c-12.5-12.5-12.5-32.75 0-45.25L338.8 288H32C14.33 288 .0016 273.7 .0016 256S14.33 224 32 224h306.8l-105.4-105.4c-12.5-12.5-12.5-32.75 0-45.25s32.75-12.5 45.25 0l160 160C451.1 245.9 451.1 266.1 438.6 278.6z">
+                        </path>
+                    </svg>
+                </span>
+            </a>
         </div>
-        <!-- Services hide and show more  -->
-        <script>
-            document.addEventListener('DOMContentLoaded', () => {
-                const services = document.querySelector('.services-main');
-                const button = document.querySelector('.services-toggle');
-                const buttonText = button.querySelector('.services-toggle-text');
-                const icon = button.querySelector('svg');
-                if (!services || !button) return;
-
-                button.addEventListener('click', () => {
-
-                    if (services.classList.contains('expanded')) {
-
-                        services.style.maxHeight = '500px';
-                        services.classList.remove('expanded');
-                        buttonText.textContent = 'View More';
-                        icon.classList.add('rotate-180');
-
-                    } else {
-
-                        services.style.maxHeight = services.scrollHeight + 'px';
-                        services.classList.add('expanded');
-                        buttonText.textContent = 'View Less';
-                        icon.classList.remove('rotate-180');
-
-                    }
-
-                });
-            });
-        </script>
     </section>
-    <section class="mt-[44px]  relative">
+    <section class="mt-[44px] relative">
         <h3 class="text-[34px] leading-[1.3] font-medium text-center mt-[44px] mb-[44px] font-coopermdbtmedium">
             Frequently Asked Questions</h3>
         <div class="max-w-[1240px] mx-auto">
