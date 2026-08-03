@@ -633,7 +633,13 @@
                 </div>
             </div>
         </div>
-        <div
+        
+    </section>
+
+
+    <section>
+
+    <div
             class="max-w-[935px] absolute z-[99] left-0 right-0 bottom-[-60px] pl-[74px] pr-[60px] border border-[#13285e] rounded-[20px] bg-white flex flex-row items-center justify-center flex-nowrap gap-5 mx-auto overflow-hidden relative after:content-[''] after:absolute after:right-[-192px] after:top-[-219px] after:w-[708px] after:h-[708px] after:rounded-[708px] after:bg-[#D4E0FF] after:blur-[247.5px] after:-z-10">
 
             <!-- Left -->
@@ -652,8 +658,8 @@
             </div>
 
         </div>
-    </section>
 
+    </section>
 
     <?php require_once('../templates/global/footer.php') ?>
 
